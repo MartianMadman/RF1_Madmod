@@ -1,0 +1,5052 @@
+#Strings
+#0
+En: "drill bit maintenance required"
+Gr: "Wartung der Bohrspitze ben�tigt"
+Fr: "maintenance des forets requise"
+
+#1
+En: "LOADING"
+Gr: "LADEN"
+Fr: "CHARGER"
+
+#2
+En: "Do not remove memory card (8MB) (for PlayStation\v183 2)."
+Gr: "Memory Card (8 MB) (f�r PlayStation\v183 2) nicht entfernen."
+Fr: "Ne pas retirer la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2)."
+
+#3
+En: "Press Fire (%s) to respawn."
+Gr: "Dr�cken Sie Feuer (%s), um weiterzumachen."
+Fr: "Appuyez sur Feu (%s) pour rena�tre."
+
+#4
+En: "Viewing from "
+Gr: "Ansicht aus "
+Fr: "Vue de "
+
+#5
+En: "BODY"
+Gr: "K�RPER"
+Fr: "CORPS"
+
+#6
+En: "ERROR"
+Gr: "FEHLER"
+Fr: "ERREUR"
+
+#7
+En: "Selected savegame could not be found.  Load failed."
+Gr: "Ausgew�hlter Spielstand konnte nicht gefunden werden.  Ladevorgang gescheitert."
+Fr: "La partie s�lectionn�e est introuvable. Le chargement a �chou�."
+
+#8
+En: "GAME OVER"
+Gr: "GAME OVER"
+Fr: "GAME OVER"
+
+#9
+En: "You have died."
+Gr: "Sie sind gestorben."
+Fr: "Vous �tes mort."
+
+#10
+En: "Load Last Save"
+Gr: "Letzter Spielstand"
+Fr: "Derni�re partie"
+
+#11
+En: "Return to Main Menu"
+Gr: "Zur�ck zum\nHauptmen�"
+Fr: "Retour au\nmenu principal"
+
+#12
+En: "ALERT"
+Gr: "ALARM"
+Fr: "ALERTE"
+
+#13
+En: "Memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1 is unformatted. Format?"
+Gr: "Memory Card (8 MB) (f�r PlayStation\v183 2) in MEMORY CARD Steckplatz 1 formatieren?"
+Fr: "Formater la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire) N\v1851?"
+
+#14
+En: "Memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 2 is unformatted. Format?"
+Gr: "Memory Card (8 MB) (f�r PlayStation\v183 2) in MEMORY CARD Steckplatz 2 formatieren?"
+Fr: "Formater la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire) N\v1852?"
+
+#15
+En: "Savegame delete failed."
+Gr: "Spielstand konnte nicht gel�scht werden."
+Fr: "La suppression de la partie a �chou�."
+
+#16
+En: "DELETE"
+Gr: "L�SCHEN"
+Fr: "SUPPRIMER"
+
+#17
+En: "Savegame deleted successfully."
+Gr: "Spielstand wurde gel�scht."
+Fr: "Partie correctement supprim�e."
+
+#18
+En: "WARNING"
+Gr: "WARNUNG"
+Fr: "DANGER"
+
+#19
+En: "Loading a saved game will end your current game.  Continue?"
+Gr: "Wenn Sie einen Spielstand laden, wird das aktuelle Spiel beendet. Fortsetzen?"
+Fr: "Si vous chargez une autre partie, la partie en cours prendra fin. Continuer?"
+
+#20
+En: "Permanently delete saved game?"
+Gr: "Spielstand endg�ltig l�schen?"
+Fr: "Supprimer d�finitivement la partie sauvegard�e?"
+
+#21
+En: "LOAD GAME"
+Gr: "SPIEL LADEN"
+Fr: "CHARGER\n  PARTIE"
+
+#22
+En: "SAVE GAME"
+Gr: "SPIEL SPEICHERN"
+Fr: "SAUV.\nPARTIE"
+
+#23
+En: "AREA"
+Gr: "LEVEL"
+Fr: "ZONE"
+
+#24
+En: "DATE"
+Gr: "DATUM"
+Fr: "DATE"
+
+#25
+En: "TIME"
+Gr: "ZEIT"
+Fr: "TEMPS"
+
+#26
+En: "HOURS"
+Gr: "STUNDEN"
+Fr: "HEURES"
+
+#27
+En: " no\ncard"
+Gr: " keine\nMemory Card"
+Fr: " pas de\nMemory Card"
+
+#28
+En: "Space Available:"
+Gr: "Platz verf�gbar:"
+Fr: "Espace disponible:"
+
+#29
+En: "Space Required:"
+Gr: "Platz ben�tigt:"
+Fr: "Espace requis:"
+
+#30
+En: "Slots Available:"
+Gr: "Steckpl�tze verf�gbar:"
+Fr: "Fentes disponibles:"
+
+#31
+En: "<new savegame>"
+Gr: "<neuer Spielstand>"
+Fr: "<nouvelle partie>"
+
+#32
+En: "%s Select"
+Gr: "%s Ausw�hlen"
+Fr: "%s S�lectionner"
+
+#33
+En: "%s Delete"
+Gr: "%s L�schen"
+Fr: "%s Supprimer"
+
+#34
+En: "FORMAT"
+Gr: "FORMATIEREN"
+Fr: "FORMATER"
+
+#35
+En: "Formatting memory card (8MB) (for PlayStation\v183 2)."
+Gr: "Formatiere Memory Card (8 MB) (f�r PlayStation\v183 2)."
+Fr: "Formatage de la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2)."
+
+#36
+En: "An error occurred while formatting.  Format failed."
+Gr: "Beim Formatieren ist ein Fehler aufgetreten. Formatierung fehlgeschlagen."
+Fr: "Une erreur est survenue lors du formatage. Le formatage a �chou�."
+
+#37
+En: "SAVING"
+Gr: "SPEICHERN"
+Fr: "SAUVEG."
+
+#38
+En: "Overwrite saved game?"
+Gr: "Spielstand �berschreiben?"
+Fr: "Ecraser la partie sauvegard�e?"
+
+#39
+En: "Insufficient space on memory card (8MB) (for PlayStation\v183 2).  Save failed."
+Gr: "Zu wenig freier Speicher auf Memory Card (8 MB) (f�r PlayStation\v183 2). Speichervorgang fehlgeschlagen."
+Fr: "Espace insuffisant sur la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2). La sauvegarde a �chou�."
+
+#40
+En: "Save failed."
+Gr: "Speichervorgang fehlgeschlagen."
+Fr: "La sauvegarde a �chou�."
+
+#41
+En: "Game saved."
+Gr: "Spiel gespeichert."
+Fr: "Partie sauvegard�e."
+
+#42
+En: "NEW GAME"
+Gr: "NEUES SPIEL"
+Fr: "NOUVELLE PARTIE"
+
+#43
+En: "OPTIONS"
+Gr: "OPTIONEN"
+Fr: "OPTIONS"
+
+#44
+En: "EXTRAS"
+Gr: "EXTRAS"
+Fr: "EXTRAS"
+
+#45
+En: "TRAILER"
+Gr: "TRAILER"
+Fr: "BANDE-ANNONCE"
+
+#46
+En: "QUIT"
+Gr: "VERLASSEN"
+Fr: "QUITTER"
+
+#47
+En: "MULTI"
+Gr: "MEHRSPIELER"
+Fr: "MULTIJOUEUR"
+
+#48
+En: "TRAINING"
+Gr: "TRAINING"
+Fr: "ENTRAINE-\n   MENT"
+
+#49
+En: "Credits"
+Gr: "Credits"
+Fr: "Cr�dits"
+
+#50
+En: "QUIT GAME"
+Gr: "SPIELENDE"
+Fr: "QUITTER JEU"
+
+#51
+En: "Are you sure?"
+Gr: "Sind Sie sicher?"
+Fr: "Etes-vous s�r(e)?"
+
+#52
+En: "Choose Mode:"
+Gr: "Modus w�hlen:"
+Fr: "Choisir un mode:"
+
+#53
+En: "Player vs. Player"
+Gr: "Spieler gegen Spieler"
+Fr: "Joueur contre joueur"
+
+#54
+En: "Player vs. Bots"
+Gr: "Spieler gegen Bots"
+Fr: "Joueur contre Combots"
+
+#55
+En: "Failed to load game."
+Gr: "Ladevorgang fehlgeschlagen."
+Fr: "Le chargement de la partie a �chou�."
+
+#56
+En: "No memory card (8MB) (for PlayStation\v183 2)\ndetected.  Red Faction requires at least\n620 KB to save game data. If you continue,\nyou may not be able to save your progress. \nContinue anyway?"
+Gr: "Es wurden keine Memory Cards (8 MB) (f�r\nPlayStation\v183 2) gefunden. Red Faction ben�tigt\nmindestens 620 KB, um das Spiel zu speichern.\nWenn Sie fortsetzen, k�nnen Sie das Spiel\nnicht abspeichern.  Trotzdem fortsetzen?"
+Fr: "Aucune Memory Card (carte m�moire) (8 MB)\n(pour PlayStation\v183 2) n'a �t� trouv�e. Red Faction\nrequiert au moins 620 Ko pour sauvegarder les\ndonn�es de la partie. Si vous continuez, vous\nrisquez de ne pas pouvoir sauvegarder votre\nprogression. Continuer quand m�me?"
+
+#57
+En: "There is insufficient free space on the memory\ncard (8MB) (for PlayStation\v183 2).  Red Faction\nrequires at least 620 KB to save game data. \nIf you continue, you may not be able to save\nyour progress.  Continue anyway?"
+Gr: "Es ist nicht genug freier Speicher auf der Memory\nCard (8 MB) (f�r PlayStation\v183 2) vorhanden. Red\nFaction ben�tigt mindestens 620 KB, um das Spiel\nzu speichern. Wenn Sie fortsetzen, k�nnen Sie\ndas Spiel nicht abspeichern. Trotzdem fortsetzen?"
+Fr: "Espace insuffisant sur la Memory Card (carte\nm�moire) (8 MB) (pour PlayStation\v183 2). Red\nFaction requiert au moins 620 Ko pour sauvegarder \nles donn�es de la partie. Si vous continuez, vous\nrisquez de ne pas pouvoir sauvegarder votre\nprogression. Continuer quand m�me?"
+
+#58
+En: "Retry"
+Gr: "Wiederholen"
+Fr: "R�essayer"
+
+#59
+En: "Continue"
+Gr: "Fortsetzen"
+Fr: "Continuer"
+
+#60
+En: "LOCKED"
+Gr: "ABGESCHLOSSEN"
+Fr: "VERROUILLE"
+
+#61
+En: "%s Change"
+Gr: "%s �ndern"
+Fr: "%s Modifier"
+
+#62
+En: "CHARACTER"
+Gr: "CHARAKTER"
+Fr: "PERSONNAGE"
+
+#63
+En: "ENVIRONMENT"
+Gr: "UMGEBUNG"
+Fr: "ENVIRONNEMENT"
+
+#64
+En: "PLAYER 2"
+Gr: "SPIELER 2"
+Fr: "JOUEUR 2"
+
+#65
+En: "Settings for Player 2 will be lost.  Continue?"
+Gr: "Einstellungen von Spieler 2 gehen verloren. Fortsetzen?"
+Fr: "Les param�tres du Joueur 2 seront perdus. Continuer?"
+
+#66
+En: "MP STATS"
+Gr: "MS STATISTIKEN"
+Fr: "STATS MJ"
+
+#67
+En: "Player"
+Gr: "Spieler"
+Fr: "Joueur"
+
+#68
+En: "Kills"
+Gr: "Kills"
+Fr: "Tu�s"
+
+#69
+En: "Deaths"
+Gr: "Tode"
+Fr: "Morts"
+
+#70
+En: "Audio"
+Gr: "Audio"
+Fr: "Audio"
+
+#71
+En: "Accuracy"
+Gr: "Trefferquote"
+Fr: "Pr�cision"
+
+#72
+En: "%s Continue"
+Gr: "%s Fortsetzen"
+Fr: "%s Continuer"
+
+#73
+En: "%s Replay Level"
+Gr: "%s Level wiederholen"
+Fr: "%s Rejouer le niveau"
+
+#74
+En: "%s Return to Main Menu"
+Gr: "%s Zur�ck zum\nHauptmen�"
+Fr: "%s Retour au\nmenu principal"
+
+#75
+En: "Start with gun?"
+Gr: "Mit Pistole anfangen?"
+Fr: "Commencer avec une arme?"
+
+#76
+En: "Yes"
+Gr: "Ja"
+Fr: "Oui"
+
+#77
+En: "No"
+Gr: "Nein"
+Fr: "Non"
+
+#78
+En: "<no bots>"
+Gr: "<keine Bots>"
+Fr: "<pas de combots>"
+
+#79
+En: "1"
+Gr: "1"
+Fr: "1"
+
+#80
+En: "2"
+Gr: "2"
+Fr: "2"
+
+#81
+En: "3"
+Gr: "3"
+Fr: "3"
+
+#82
+En: "4"
+Gr: "4"
+Fr: "4"
+
+#83
+En: "5"
+Gr: "5"
+Fr: "5"
+
+#84
+En: "6"
+Gr: "6"
+Fr: "6"
+
+#85
+En: "Easy"
+Gr: "Leicht"
+Fr: "Facile"
+
+#86
+En: "Medium"
+Gr: "Normal"
+Fr: "Interm�diaire"
+
+#87
+En: "Hard"
+Gr: "Schwer"
+Fr: "Difficile"
+
+#88
+En: "Impossible"
+Gr: "Unm�glich"
+Fr: "Impossible"
+
+#89
+En: "<no limit>"
+Gr: "<kein Limit>"
+Fr: "<pas de limite>"
+
+#90
+En: "15"
+Gr: "15"
+Fr: "15"
+
+#91
+En: "25"
+Gr: "25"
+Fr: "25"
+
+#92
+En: "50"
+Gr: "50"
+Fr: "50"
+
+#93
+En: "1 minute"
+Gr: "1 Minute"
+Fr: "1 minute"
+
+#94
+En: "5 minutes"
+Gr: "5 Minuten"
+Fr: "5 minutes"
+
+#95
+En: "15 minutes"
+Gr: "15 Minuten"
+Fr: "15 minutes"
+
+#96
+En: "25 minutes"
+Gr: "25 Minuten"
+Fr: "25 minutes"
+
+#97
+En: "30 minutes"
+Gr: "30 Minuten"
+Fr: "30 minutes"
+
+#98
+En: "Number of Bots:"
+Gr: "Anzahl der Bots:"
+Fr: "Nombre de combots:"
+
+#99
+En: "Skill Level:"
+Gr: "Schwierigkeitsgrad:"
+Fr: "Niveau de comp�tences:"
+
+#100
+En: "Kill Limit:"
+Gr: "Max. Absch�sse:"
+Fr: "Limite de tu�s:"
+
+#101
+En: "Time Limit:"
+Gr: "Zeitbegrenzung:"
+Fr: "Limite de temps:"
+
+#102
+En: "Player 1 Options"
+Gr: "Spieler 1 Optionen"
+Fr: "Options du joueur 1"
+
+#103
+En: "START GAME"
+Gr: "SPIEL STARTEN"
+Fr: "DEMARRER PARTIE"
+
+#104
+En: "Player 2 Options"
+Gr: "Spieler 2 Optionen"
+Fr: "Options du joueur 2"
+
+#105
+En: "MP OPTIONS"
+Gr: "MS OPTIONEN"
+Fr: "OPTIONS MJ"
+
+#106
+En: "Space"
+Gr: "Leer"
+Fr: "Espace"
+
+#107
+En: "Accept"
+Gr: "OK"
+Fr: "Accepter"
+
+#108
+En: "%s Enter Name"
+Gr: "%s Namen eingeben"
+Fr: "%s Entrer un nom"
+
+#109
+En: "%s Backspace"
+Gr: "%s L�schen"
+Fr: "%s Retour"
+
+#110
+En: "%s Modify Name"
+Gr: "%s Namen �ndern"
+Fr: "%s Modifier le nom"
+
+#111
+En: "PLAYER NAME"
+Gr: "SPIELERNAME"
+Fr: "NOM DU JOUEUR"
+
+#112
+En: "PLAYER 1"
+Gr: "SPIELER 1"
+Fr: "JOUEUR 1"
+
+#113
+En: "Character"
+Gr: "Charakter"
+Fr: "Personnage"
+
+#114
+En: "Options"
+Gr: "Optionen"
+Fr: "Options"
+
+#115
+En: "Save Character"
+Gr: "Charakter speichern"
+Fr: "Sauvegarder le personnage"
+
+#116
+En: "Load Character"
+Gr: "Charakter laden"
+Fr: "Charger le personnage"
+
+#117
+En: "Continue..."
+Gr: "Fortsetzen..."
+Fr: "Continuer..."
+
+#118
+En: "Start Game!"
+Gr: "Spiel starten!"
+Fr: "D�marrer la partie!"
+
+#119
+En: "Miner"
+Gr: "Arbeiter"
+Fr: "Mineur"
+
+#120
+En: "Medic"
+Gr: "Doktor"
+Fr: "M�decin"
+
+#121
+En: "Tech"
+Gr: "Techniker"
+Fr: "Technicien"
+
+#122
+En: "Female Admin"
+Gr: "Weiblicher Admin"
+Fr: "Employ�e administrative"
+
+#123
+En: "DIFFICULTY?"
+Gr: "SCHWIERIGKEIT"
+Fr: "DIFFICULTE?"
+
+#124
+En: "CONTROLS"
+Gr: "STEUERUNG"
+Fr: "COMMANDES"
+
+#125
+En: "ADV CONTROLS"
+Gr: "ERW. STEUERUNG"
+Fr: "COMMANDES\n  AVANCEES"
+
+#126
+En: "   GAME\nSETTINGS"
+Gr: "   SPIEL-\nSETTINGS"
+Fr: "OPTIONS\nDE JEU"
+
+#127
+En: "WEAPON\n  PREFS"
+Gr: "WAFFEN-\nSETTINGS"
+Fr: "OPTIONS\nARMES"
+
+#128
+En: "DISPLAY"
+Gr: "GRAFIK"
+Fr: "AFFICHAGE"
+
+#129
+En: "SOUND"
+Gr: "SOUND"
+Fr: "SON"
+
+#130
+En: "Left:  Walk/Sidestep\nRight: Pitch/Turn"
+Gr: "Linker Analog-Stick\n     Gehen/Seitw�rts\nRechter Analog-Stick\n     Neigen/Drehen"
+Fr: "Joystick analogique gauche\n     Marcher/Esquiver\nJoystick analogique droit\n     Lancer/Tourner"
+
+#131
+En: "Left:  Pitch/Turn\nRight: Walk/Sidestep"
+Gr: "Linker Analog-Stick\n     Neigen/Drehen\nRechter Analog-Stick\n     Gehen/Seitw�rts"
+Fr: "Joystick analogique gauche\n     Lancer/Tourner\nJoystick analogique droit\n     Marcher/Esquiver"
+
+#132
+En: "Left:  Walk/Turn\nRight: Pitch/Sidestep"
+Gr: "Linker Analog-Stick\n     Gehen/Drehen\nRechter Analog-Stick\n     Neigen/Seitw�rts"
+Fr: "Joystick analogique gauche\n     Marcher/Tourner\nJoystick analogique droit\n     Lancer/Esquiver"
+
+#133
+En: "Left:  Pitch/Sidestep\nRight: Walk/Turn"
+Gr: "Linker Analog-Stick\n     Neigen/Seitw�rts\nRechter Analog-Stick\n     Gehen/Drehen"
+Fr: "Joystick analogique gauche\n     Lancer/Esquiver\nJoystick analogique droit\n     Marcher/Tourner"
+
+#134
+En: "Analog Sticks:"
+Gr: "Analog Sticks:"
+Fr: "Joysticks analogiques:"
+
+#135
+En: "Invert Look Y-Axis:"
+Gr: "Y-Achse invertieren:"
+Fr: "Inverser Axe Y:"
+
+#136
+En: "X-Axis:"
+Gr: "X-Achse:"
+Fr: "Axe X:"
+
+#137
+En: "Y-Axis:"
+Gr: "Y-Achse:"
+Fr: "Axe Y:"
+
+#138
+En: "DEFAULTS"
+Gr: "STANDARD"
+Fr: "DEFAUT"
+
+#139
+En: "Reset to default settings?"
+Gr: "Standardeinstellung wiederherstellen?"
+Fr: "R�tablir param�tres par d�faut?"
+
+#140
+En: "Done"
+Gr: "Fertig"
+Fr: "Fait"
+
+#141
+En: "Reset to Defaults"
+Gr: "Standard wiederherstellen"
+Fr: "R�tablir param�tres par d�faut"
+
+#142
+En: "ADV. CONTROLS"
+Gr: "ERW. STEUERUNG"
+Fr: "COMMANDES AVNC."
+
+#143
+En: "Look Sensitivity"
+Gr: "Empfindlichkeit"
+Fr: "Sensibilit� du regard"
+
+#144
+En: "Modify"
+Gr: "Ver�ndern"
+Fr: "Modifier"
+
+#145
+En: "Fire"
+Gr: "Schie�en"
+Fr: "Feu"
+
+#146
+En: "Alt Fire"
+Gr: "Alt. Schie�en"
+Fr: "Alt Feu"
+
+#147
+En: "Use"
+Gr: "Benutzen"
+Fr: "Utiliser"
+
+#148
+En: "Jump"
+Gr: "Springen"
+Fr: "Sauter"
+
+#149
+En: "Crouch"
+Gr: "Kriechen"
+Fr: "S'accroupir"
+
+#150
+En: "Holster"
+Gr: "Holster"
+Fr: "Etui de revolver"
+
+#151
+En: "Reload"
+Gr: "Nachladen"
+Fr: "Recharger"
+
+#152
+En: "Next Weapon"
+Gr: "N�chste Waffe"
+Fr: "Arme suivante"
+
+#153
+En: "Prev Weapon"
+Gr: "Vorherige Waffe"
+Fr: "Arme pr�c�dente"
+
+#154
+En: "Fine Aim Mode"
+Gr: "Zielerfassung"
+Fr: "Mode Vis�e pr�c."
+
+#155
+En: "Center View"
+Gr: "Sicht zentrieren"
+Fr: "Centrer la vue"
+
+#156
+En: "Message Log"
+Gr: "Nachrichten"
+Fr: "Messagerie"
+
+#157
+En: "Preset A"
+Gr: "Vorschlag A"
+Fr: "R�glage A"
+
+#158
+En: "Preset B"
+Gr: "Vorschlag B"
+Fr: "R�glage B"
+
+#159
+En: "Preset C"
+Gr: "Vorschlag C"
+Fr: "R�glage C"
+
+#160
+En: "Preset D"
+Gr: "Vorschlag D"
+Fr: "R�glage D"
+
+#161
+En: "Custom"
+Gr: "Benutzer"
+Fr: "Personnal."
+
+#162
+En: "Presets"
+Gr: "Vorschl�ge"
+Fr: "R�glages"
+
+#163
+En: "Some controls are unbound.  Save anyway?"
+Gr: "Nicht alle Tasten wurden belegt. Trotzdem speichern?"
+Fr: "Certaines commandes ne sont pas d�finies. Sauvegarder quand m�me?"
+
+#164
+En: "PRESS NEW BUTTON"
+Gr: "NEUEN KNOPF DR�CKEN"
+Fr: "APPUYEZ SUR LA NOUVELLE TOUCHE"
+
+#165
+En: "PRESETS:"
+Gr: "VORSCHL�GE:"
+Fr: "R�GLAGES:"
+
+#166
+En: "Change Binding"
+Gr: "Belegung �ndern"
+Fr: "Changer d�f."
+
+#167
+En: "Brightness:"
+Gr: "Helligkeit:"
+Fr: "Luminosit�:"
+
+#168
+En: "Crosshairs:"
+Gr: "Fadenkreuz:"
+Fr: "R�ticules:"
+
+#169
+En: "On"
+Gr: "An"
+Fr: "Activ�"
+
+#170
+En: "Off"
+Gr: "Aus"
+Fr: "D�sactiv�"
+
+#171
+En: "Weapons Sway:"
+Gr: "Waffenbewegung:"
+Fr: "Balancement armes:"
+
+#172
+En: "Autoaim:"
+Gr: "Autozielen:"
+Fr: "Vis�e automatique:"
+
+#173
+En: "Closed Captioning:"
+Gr: "Untertitel:"
+Fr: "Sous-titres:"
+
+#174
+En: "Weapons:"
+Gr: "Waffen:"
+Fr: "Armes:"
+
+#175
+En: "Environment:"
+Gr: "Umgebung:"
+Fr: "Environnement:"
+
+#176
+En: "Gore:"
+Gr: "Blut:"
+Fr: "Gore:"
+
+#177
+En: "GAME SETTINGS"
+Gr: "SPIEL SETTINGS"
+Fr: "OPTIONS PARTIE"
+
+#178
+En: "Vibration"
+Gr: "Vibration"
+Fr: "Vibration"
+
+#179
+En: "Effects Volume:"
+Gr: "Lautst�rke Effekte:"
+Fr: "Volume effets sonores:"
+
+#180
+En: "Music Volume:"
+Gr: "Lautst�rke Musik:"
+Fr: "Volume musique:"
+
+#181
+En: "Enabled:"
+Gr: "Aktiviert:"
+Fr: "Activ�:"
+
+#182
+En: "Skip explosives:"
+Gr: "Sprengk�rper auslassen:"
+Fr: "Ignorer explosifs:"
+
+#183
+En: "Change Priorities:"
+Gr: "Priorit�ten �ndern:"
+Fr: "Changer priorit�s:"
+
+#184
+En: "Rocket Launcher"
+Gr: "Raketenwerfer"
+Fr: "Lance-roquettes"
+
+#185
+En: "Assault Rifle"
+Gr: "Sturmgewehr"
+Fr: "Fusil d'assaut"
+
+#186
+En: "Pistol"
+Gr: "Pistole"
+Fr: "Pistolet"
+
+#187
+En: "Remote Charge"
+Gr: "Sprengladung"
+Fr: "Explosif t�l�command�"
+
+#188
+En: "Shoulder Cannon"
+Gr: "Schwere Panzerfaust"
+Fr: "Canon d'�paule"
+
+#189
+En: "Heavy Machine Gun"
+Gr: "Maschinengewehr"
+Fr: "Mitrailleuse lourde"
+
+#190
+En: "Railgun"
+Gr: "Railgun"
+Fr: "Arme �lectromagn�tique"
+
+#191
+En: "Sniper Rifle"
+Gr: "Scharfsch�tzengewehr"
+Fr: "Fusil � lunette"
+
+#192
+En: "Flamethrower"
+Gr: "Flammenwerfer"
+Fr: "Lance-flammes"
+
+#193
+En: "Scope Assualt Rifle"
+Gr: "Pr�zisionsgewehr"
+Fr: "Fusil d'assaut � viseur"
+
+#194
+En: "Machine Pistol"
+Gr: "Maschinenpistole"
+Fr: "Pistolet-mitrailleur"
+
+#195
+En: "Shotgun"
+Gr: "Pumpgun"
+Fr: "Fusil"
+
+#196
+En: "Grenades"
+Gr: "Handgranaten"
+Fr: "Grenades"
+
+#197
+En: "Riot Stick"
+Gr: "Elektroschocker"
+Fr: "Matraque"
+
+#198
+En: "Riot Shield"
+Gr: "Schutzschild"
+Fr: "Bouclier anti-�meute"
+
+#199
+En: "WEAPON PREFS"
+Gr: "WAFFEN-SETTINGS"
+Fr: "OPTIONS ARMES"
+
+#200
+En: "Auto-switching"
+Gr: "Auto-Wechseln"
+Fr: "Echange automatique"
+
+#201
+En: "Done moving"
+Gr: "�nderungen fertig"
+Fr: "D�placement termin�"
+
+#202
+En: "Cancel"
+Gr: "Abbruch"
+Fr: "Annuler"
+
+#203
+En: "Move weapon"
+Gr: "Waffe bewegen"
+Fr: "D�placer arme"
+
+#204
+En: "Press the START button"
+Gr: "Dr�cken Sie START auf"
+Fr: "Touche START de la"
+
+#205
+En: "on controller %d to"
+Gr: "Controller %d, um"
+Fr: "Manette %d pour"
+
+#206
+En: "continue."
+Gr: "fortzusetzen."
+Fr: "continuer."
+
+#207
+En: "Please insert an analog"
+Gr: "Stecke Analog Controller"
+Fr: "Ins�rer manette analogique"
+
+#208
+En: "controller (DUALSHOCK\v183 2)"
+Gr: "(DUALSHOCK\v183 2) in"
+Fr: "(DUALSHOCK\v183 2) dans"
+
+#209
+En: "into controller port %d."
+Gr: "Controller-Anschluss %d."
+Fr: "port de manette N\v185%d."
+
+#210
+En: "MESSAGES"
+Gr: "NACHRICHTEN"
+Fr: "MESSAGES"
+
+#211
+En: "<< no messages >>"
+Gr: "<< keine Nachrichten >>"
+Fr: "<< pas de messages >>"
+
+#212
+En: "Ok"
+Gr: "Ok"
+Fr: "Ok"
+
+#213
+En: "Error reading memory card (8MB) (for PlayStation\v183 2)."
+Gr: "Fehler beim Lesen der Memory Card (8 MB) (f�r PlayStation\v183 2)."
+Fr: "Erreur lors de la lecture de la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2)."
+
+#214
+En: "Press spacebar to restart level"
+Gr: "Benutzen Sie die Leertaste, um den Level neu zu starten."
+Fr: "Appuyez sur la barre d'espace pour red�marrer le niveau"
+
+#215
+En: "Save Player 1 Settings to MEMORY CARD slot 1?"
+Gr: "Spieler 1 Einstellungen auf Memory Card in Steckplatz 1 speichern?"
+Fr: "Sauvegarder param�tres du joueur 1 dans la fente pour MEMORY CARD (carte m�moire) N\v1851?"
+
+#216
+En: "Save Player 2 Settings to MEMORY CARD slot 2?"
+Gr: "Spieler 2 Einstellungen auf Memory Card in Steckplatz 2 speichern?"
+Fr: "Sauvegarder param�tres du joueur 2 dans la fente pour MEMORY CARD (carte m�moire) N\v1852?"
+
+#217
+En: "Please insert a memory card (8MB) (for PlayStation\v183 2) into MEMORY CARD slot 1, or press %s to cancel."
+Gr: "Bitte stecken Sie eine Memory Card (8 MB) (f�r PlayStation\v183 2) in MEMORY CARD Steckplatz 1, oder dr�cken Sie %s, um abzubrechen."
+Fr: "Ins�rez une memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire)  N\v1851 ou annulez avec %s."
+
+#218
+En: "Please insert a memory card (8MB) (for PlayStation\v183 2) into MEMORY CARD slot 2, or press %s to cancel."
+Gr: "Bitte stecken Sie eine Memory Card (8 MB) (f�r PlayStation\v183 2) in MEMORY CARD Steckplatz 2, oder dr�cken Sie %s, um abzubrechen."
+Fr: "Ins�rez une memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire) N\v1852 ou annulez avec %s."
+
+#219
+En: "Formatting memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1."
+Gr: "Formatiere Memory Card in MEMORY CARD Steckplatz 1."
+Fr: "Formatage de la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire) N\v1851."
+
+#220
+En: "Formatting memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 2"
+Gr: "Formatiere Memory Card in MEMORY CARD Steckplatz 2."
+Fr: "Formatage de la Memory Card (carte m�moire) (8 MB) (pour PlayStation\v183 2) dans la fente pour MEMORY CARD (carte m�moire) N\v1852."
+
+#221
+En: "Do not remove memory card (8MB) (for PlayStation\v183 2) from MEMORY CARD slot 1."
+Gr: "Entfernen Sie die Memory Card (8 MB) (f�r PlayStation\v183 2) nicht aus MEMORY CARD Steckplatz 1."
+Fr: "Ne retirez pas la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) de la fente pour MEMORY CARD (carte m�moire) N\v1851."
+
+#222
+En: "Do not remove memory card (8MB) (for PlayStation\v183 2) from MEMORY CARD slot 2."
+Gr: "Entfernen Sie die Memory Card (8 MB) (f�r PlayStation\v183 2) nicht aus MEMORY CARD Steckplatz 2."
+Fr: "Ne retirez pas la memory card (carte m�moire) (8 MB) (pour PlayStation\v183 2) de la fente pour MEMORY CARD (carte m�moire) N\v1852."
+
+#223
+En: "Player 1 saved successfully."
+Gr: "Spieler 1 erfolgreich abgespeichert."
+Fr: "Joueur 1 correctement sauvegard�."
+
+#224
+En: "Player 2 saved successfully."
+Gr: "Spieler 2 erfolgreich abgespeichert."
+Fr: "Joueur 2 correctement sauvegard�."
+
+#225
+En: "Player 1 save failed."
+Gr: "Spieler 1 Speicherung gescheitert."
+Fr: "Echec de la sauvegarde du joueur 1."
+
+#226
+En: "Player 2 save failed."
+Gr: "Spieler 2 Speicherung gescheitert."
+Fr: "Echec de la sauvegarde du joueur 2."
+
+
+// LEVEL NAMES: THESE WERE ADDED BY HAND
+
+#227
+En: "Basic Training"
+Gr: "Standardtraining"
+Fr: "Entra�nement de base"
+
+#228
+En: "Advanced Training"
+Gr: "Erweitertes Training"
+Fr: "Entra�nement avanc�"
+
+#229
+En: "Live Mines"
+Gr: "Aktive Minen"
+Fr: "Mines en activit�"
+
+#230
+En: "Mine Maintenance"
+Gr: "Mineninstandhaltung"
+Fr: "Maintenance de la mine"
+
+#231
+En: "Mine Entrance"
+Gr: "Mineneingang"
+Fr: "Entr�e de la mine"
+
+#232
+En: "Barracks Entrance"
+Gr: "Eingang Unterk�nfte"
+Fr: "Entr�e des quartiers"
+
+#233
+En: "Barracks"
+Gr: "Unterk�nfte"
+Fr: "Quartiers"
+
+#234
+En: "Elevator to Registration"
+Gr: "Aufzug zur Registrierung"
+Fr: "Vers l'enregistrement"
+
+#235
+En: "Miner Registration"
+Gr: "Arbeiterregistrierung"
+Fr: "Enregistrement mineurs"
+
+#236
+En: "Registration Lobby"
+Gr: "Registrierungszentrale"
+Fr: "Hall d'enregistrement"
+
+#237
+En: "Docking Bay"
+Gr: "Landebucht"
+Fr: "Plate-forme d'arrimage"
+
+#238
+En: "Exit From Docking Bay"
+Gr: "Ausgang Landebucht"
+Fr: "Sortie de la plate-forme"
+
+#239
+En: "Abandoned Mine"
+Gr: "Verlassene Mine"
+Fr: "Mine abandonn�e"
+
+#240
+En: "Crevasse"
+Gr: "Schlucht"
+Fr: "Crevasse"
+
+#241
+En: "Abandoned Smelter"
+Gr: "Verlassene Schmelze"
+Fr: "Creuset abandonn�"
+
+#242
+En: "Abandoned Ore Hopper"
+Gr: "Verlassene Erzlore"
+Fr: "Benne � minerai"
+
+#243
+En: "Abandoned Crusher"
+Gr: "Verlassene M�hle"
+Fr: "Concasseur abandonn�"
+
+#244
+En: "Ventilation Shaft"
+Gr: "Ventilationsschacht"
+Fr: "Conduit d'a�ration"
+
+#245
+En: "Plant Entrance"
+Gr: "Eingang Kraftwerk"
+Fr: "Entr�e centrale"
+
+#246
+En: "Geothermal Power Plant"
+Gr: "Geothermales Kraftwerk"
+Fr: "Centrale g�othermique"
+
+#247
+En: "Sub Bay"
+Gr: "U-Boot-Schleuse"
+Fr: "Plate-forme sous-marins"
+
+#248
+En: "Underwater Research"
+Gr: "Unterwasser-Forschung"
+Fr: "Recherche sous-marine"
+
+#249
+En: "Administration Entrance"
+Gr: "Eingang Verwaltung"
+Fr: "Entr�e administration"
+
+#250
+En: "Corporate HQ"
+Gr: "Hauptquartier"
+Fr: "Si�ge soci�t�"
+
+#251
+En: "Executive Suites"
+Gr: "F�hrungspersonal"
+Fr: "Appartements cadres"
+
+#252
+En: "Maintenance Entrance"
+Gr: "Eingang Instandhaltung"
+Fr: "Entr�e maintenance"
+
+#253
+En: "Fighter Docking Bay"
+Gr: "Landebucht f�r J�ger"
+Fr: "Quai des chasseurs"
+
+#254
+En: "Fighter Testing Grounds"
+Gr: "�bungsgel�nde"
+Fr: "Zone test des chasseurs"
+
+#255
+En: "Refuse Disposal Plant"
+Gr: "Abfallbeseitigung"
+Fr: "D�charge"
+
+#256
+En: "Medical Research"
+Gr: "Medizinische Forschung"
+Fr: "Recherche m�dicale"
+
+#257
+En: "Cryogenic Storage"
+Gr: "Tiefk�hllager"
+Fr: "D�p�t cryog�nique"
+
+#258
+En: "Capek's Lair"
+Gr: "Capeks Versteck"
+Fr: "Repaire de Capek"
+
+#259
+En: "Cavern Entrance"
+Gr: "H�hleneingang"
+Fr: "Entr�e grotte"
+
+#260
+En: "Underwater Caverns"
+Gr: "Unterwasserh�hle"
+Fr: "Grottes sous-marines"
+
+#261
+En: "The Artifact"
+Gr: "Das Artefakt"
+Fr: "L'Art�fact"
+
+#262
+En: "Waterfall!"
+Gr: "Wasserfall!"
+Fr: "Cascade!"
+
+#263
+En: "Capek's Zoo"
+Gr: "Capeks Zoo"
+Fr: "Zoo de Capek"
+
+#264
+En: "Icy Underwater Cavern"
+Gr: "Eisige Unterwasserh�hle"
+Fr: "Niche sous-marine glac�e"
+
+#265
+En: "Icy Sub Bay"
+Gr: "Eisige U-Boot-Schleuse"
+Fr: "Baie des sous-marins glac�e"
+
+#266
+En: "Worm Food"
+Gr: "Wurmfutter"
+Fr: "Nourriture pour vers"
+
+#267
+En: "Lab Entrance"
+Gr: "Laboreingang"
+Fr: "Entr�e laboratoire"
+
+#268
+En: "Nanotech Lab"
+Gr: "Nanotech-Labor"
+Fr: "Labo nanotech"
+
+#269
+En: "Capek's Inner Sanctum"
+Gr: "Capeks innerste Sph�re"
+Fr: "Quartiers priv�s de Capek"
+
+#270
+En: "Grand Canyon"
+Gr: "Grand Canyon"
+Fr: "Grand Canyon"
+
+#271
+En: "Dry Waterfall"
+Gr: "Trockener Wasserfall"
+Fr: "Cascade ass�ch�e"
+
+#272
+En: "Communications Center"
+Gr: "Kommunikationszentrale"
+Fr: "Communications"
+
+#273
+En: "Communications Tower"
+Gr: "Funkturm"
+Fr: "Tour de communications"
+
+#274
+En: "Shooting Gallery"
+Gr: "Waffengalerie"
+Fr: "Stand de tir"
+
+#275
+En: "Tramway Tunnel"
+Gr: "U-Bahn-Tunnel"
+Fr: "Tunnel des tramways"
+
+#276
+En: "Missile Command Center"
+Gr: "Raketensteuerung"
+Fr: "Contr�le des missiles"
+
+#277
+En: "Stranded!"
+Gr: "Gestrandet!"
+Fr: "En panne!"
+
+#278
+En: "Ancient Riverbed"
+Gr: "Altes Flussbett"
+Fr: "Lit ancienne rivi�re"
+
+#279
+En: "Unexpected Cargo"
+Gr: "Unerwartete Lieferung"
+Fr: "Cargaison inattendue"
+
+#280
+En: "Space Station Hub"
+Gr: "Raumstation"
+Fr: "Station spatiale"
+
+#281
+En: "Satellite Control"
+Gr: "Satellitenkontrolle"
+Fr: "Contr�le satellites"
+
+#282
+En: "Living Quarters"
+Gr: "Wohnquartiere"
+Fr: "Appartements"
+
+#283
+En: "Crash Site"
+Gr: "Absturzstelle"
+Fr: "Site du crash"
+
+#284
+En: "Sniper Alley"
+Gr: "Scharfsch�tzen"
+Fr: "All�e des snipers"
+
+#285
+En: "A Bridge Too Far"
+Gr: "Eine lange Br�cke"
+Fr: "Un pont trop loin"
+
+#286
+En: "Merc Prison Cells"
+Gr: "Arrestzellen"
+Fr: "Cellules de d�tention"
+
+#287
+En: "Merc Barracks"
+Gr: "S�ldnerunterk�nfte"
+Fr: "Quart. des mercs"
+
+#288
+En: "Merc Command Center"
+Gr: "Kommandozentrale"
+Fr: "Centre de contr�le"
+
+#289
+En: "Merc Power Plant"
+Gr: "Kraftwerk"
+Fr: "Centrale des mercenaires"
+
+#290
+En: "Docking Bay Entrance"
+Gr: "Eingang Landebucht"
+Fr: "Plate-forme d'arrimage"
+
+#291
+En: "Masako's Lair"
+Gr: "Masakos Versteck"
+Fr: "Repaire de Masako"
+
+#292
+En: "Finale"
+Gr: "Finale"
+Fr: "Conclusion"
+
+// END LEVEL NAMES
+
+// ITEMS.TBL STUFF
+
+#293
+En: "Remote Charge"
+Gr: "Sprengladung"
+Fr: "Explosif t�l�command�"
+
+#294
+En: "Remote Charge picked up"
+Gr: "Sprengladung aufgenommen"
+Fr: "Explosif t�l�command� ramass�"
+
+#295
+En: "%d Remote Charges picked up"
+Gr: "%d Sprengladungen aufgenommen"
+Fr: "%d explosifs t�l�command�s ramass�s"
+
+#296
+En: "Remote Charge"
+Gr: "Sprengladung"
+Fr: "Explosif t�l�command�"
+
+#297
+En: "Remote Charge picked up"
+Gr: "Sprengladung aufgenommen"
+Fr: "Explosif t�l�command� ramass�"
+
+#298
+En: "%d Remote Charges picked up"
+Gr: "%d Sprengladungen aufgenommen"
+Fr: "%d explosifs t�l�command�s ramass�s"
+
+#299
+En: "Control Baton"
+Gr: "Elektroschocker"
+Fr: "B�ton"
+
+#300
+En: "Control Baton picked up"
+Gr: "Elektroschocker aufgenommen"
+Fr: "B�ton ramass�"
+
+#301
+En: "12mm Pistol"
+Gr: "12mm Pistole"
+Fr: "Pistolet 12 mm"
+
+#302
+En: "12mm pistol picked up"
+Gr: "12mm Pistole aufgenommen"
+Fr: "Pistolet 12 mm ramass�"
+
+#303
+En: "Silenced 12mm Pistol"
+Gr: "12mm Pistole mit Schalld�mpfer"
+Fr: "Pistolet 12 mm � silencieux"
+
+#304
+En: "12mm pistol with silencer picked up"
+Gr: "12mm Pistole mit Schalld�mpfer aufgenommen"
+Fr: "Pistolet 12 mm � silencieux ramass�"
+
+#305
+En: "Automatic Shotgun"
+Gr: "Auto. Pumpgun"
+Fr: "Fusil automatique"
+
+#306
+En: "Automatic Shotgun picked up"
+Gr: "Automatische Pumpgun aufgenommen"
+Fr: "Fusil automatique ramass�"
+
+#307
+En: "Sniper Rifle"
+Gr: "Scharfsch�tzeng."
+Fr: "Fusil � lunette"
+
+#308
+En: "Sniper Rifle picked up"
+Gr: "Scharfsch�tzengewehr aufgenommen"
+Fr: "Fusil � lunette ramass�"
+
+#309
+En: "Rocket Launcher"
+Gr: "Raketenwerfer"
+Fr: "Lance-roquettes"
+
+#310
+En: "Rocket Launcher picked up"
+Gr: "Raketenwerfer aufgenommen"
+Fr: "Lance-roquettes ramass�"
+
+#311
+En: "Assault Rifle"
+Gr: "Sturmgewehr"
+Fr: "Fusil d'assaut"
+
+#312
+En: "Assault Rifle picked up"
+Gr: "Sturmgewehr aufgenommen"
+Fr: "Fusil d'assaut ramass�"
+
+#313
+En: "Submachine Gun"
+Gr: "Maschinenpistole"
+Fr: "Mitraillette"
+
+#314
+En: "Submachine Gun picked up"
+Gr: "Maschinenpistole aufgenommen"
+Fr: "Mitraillette ramass�e"
+
+#315
+En: "Grenade"
+Gr: "Handgranate"
+Fr: "Grenade"
+
+#316
+En: "Grenade picked up"
+Gr: "Handgranate aufgenommen"
+Fr: "Grenade ramass�e"
+
+#317
+En: "%d Grenades picked up"
+Gr: "%d Handgranaten aufgenommen"
+Fr: "%d grenades ramass�es"
+
+#318
+En: "Flamethrower"
+Gr: "Flammenwerfer"
+Fr: "Lance-flammes"
+
+#319
+En: "Flamethrower picked up"
+Gr: "Flammenwerfer aufgenommen"
+Fr: "Lance-flammes ramass�"
+
+#320
+En: "Riot Shield"
+Gr: "Schutzschild"
+Fr: "Bouclier anti-�meute"
+
+#321
+En: "Riot Shield picked up"
+Gr: "Schutzschild aufgenommen"
+Fr: "Bouclier anti-�meute ramass�"
+
+#322
+En: "Rail Driver"
+Gr: "Railgun"
+Fr: "Arme �lectromagn�t."
+
+#323
+En: "Rail Driver picked up"
+Gr: "Railgun aufgenommen"
+Fr: "Arme �lectromagn�tique ramass�e"
+
+#324
+En: "Heavy Machine Gun"
+Gr: "Maschinengewehr"
+Fr: "Mitrailleuse lourde"
+
+#325
+En: "Heavy Machine Gun picked up"
+Gr: "Maschinengewehr aufgenommen"
+Fr: "Mitrailleuse lourde ramass�e"
+
+#326
+En: "Precision Rifle"
+Gr: "Pr�zisionsgewehr"
+Fr: "Fusil de pr�cision"
+
+#327
+En: "Precision Rifle picked up"
+Gr: "Pr�zisionsgewehr aufgenommen"
+Fr: "Fusil de pr�cision ramass�"
+
+#328
+En: "Fusion Rocket Launcher"
+Gr: "Schwere Panzerfaust"
+Fr: "Lance-roq. � fusion"
+
+#329
+En: "Fusion Rocket Launcher picked up"
+Gr: "Schwere Panzerfaust aufgenommen"
+Fr: "Lance-roquettes � fusion ramass�"
+
+#330
+En: "12mm rounds"
+Gr: "12mm Patronen"
+Fr: "Balles 12 mm"
+
+#331
+En: "1 12mm round picked up"
+Gr: "1 12mm Patrone aufgenommen"
+Fr: "1 balle 12 mm ramass�e"
+
+#332
+En: "%d 12mm rounds picked up"
+Gr: "%d 12mm Patronen aufgenommen"
+Fr: "%d balles 12 mm ramass�es"
+
+#333
+En: "5.56mm rounds"
+Gr: "5.56mm Patronen"
+Fr: "Balles 5.56 mm"
+
+#334
+En: "1 5.56mm round picked up"
+Gr: "1 5.56mm Patrone aufgenommen"
+Fr: "1 balle 5.56 mm ramass�e"
+
+#335
+En: "%d 5.56mm rounds picked up"
+Gr: "%d 5.56mm Patronen aufgenommen"
+Fr: "%d balles 5.56 mm ramass�es"
+
+#336
+En: "7.62mm rounds"
+Gr: "7.62mm Patronen"
+Fr: "Balles 7.62 mm"
+
+#337
+En: "1 7.62mm round picked up"
+Gr: "1 7.62mm Patrone aufgenommen"
+Fr: "1 balle 7.62 mm ramass�e"
+
+#338
+En: "%d 7.62mm rounds picked up"
+Gr: "%d 7.62mm Patronen aufgenommen"
+Fr: "%d balles 7.62 mm ramass�es"
+
+#339
+En: "explosive 5.56mm rounds"
+Gr: "5.56mm Patronen"
+Fr: "munitions explosives 5.56 mm"
+
+#340
+En: "1 Precision Rifle round picked up"
+Gr: "1 Pr�zisionsgewehr-Patrone aufgenommen"
+Fr: "1 balle de fusil de pr�cision ramass�e"
+
+#341
+En: "%d Precision Rifle rounds picked up"
+Gr: "%d Pr�zisionsgewehr-Patronen aufgenommen"
+Fr: "%d balles de fusil de pr�cision ramass�es"
+
+#342
+En: "10 gauge shells"
+Gr: "10 Pumpgun-Patronen"
+Fr: "10 cartouches"
+
+#343
+En: "1 Shotgun shell picked up"
+Gr: "1 Pumpgun-Patrone aufgenommen"
+Fr: "1 cartouche de fusil ramass�e"
+
+#344
+En: "%d Shotgun shells picked up"
+Gr: "%d Pumpgun-Patronen aufgenommen"
+Fr: "%d cartouches de fusil ramass�es"
+
+#345
+En: ".50 caliber rounds"
+Gr: ".50 Kaliber-Patronen"
+Fr: "Balles calibre .50"
+
+#346
+En: "1 Sniper Rifle round picked up"
+Gr: "1 Scharfsch�tzengewehr-Patrone aufgenommen"
+Fr: "1 balle de fusil � lunette ramass�e"
+
+#347
+En: "%d Sniper Rifle rounds picked up"
+Gr: "%d Scharfsch�tzengewehr-Patronen aufgenommen"
+Fr: "%d balles de fusil � lunette ramass�es"
+
+#348
+En: "fuel canisters"
+Gr: "Benzinkanister"
+Fr: "Bidons de carburant"
+
+#349
+En: "1 fuel canister picked up"
+Gr: "1 Benzinkanister aufgenommen"
+Fr: "1 bidon de carburant ramass�"
+
+#350
+En: "%d fuel canisters picked up"
+Gr: "%d Benzinkanister aufgenommen"
+Fr: "%d bidons de carburant ramass�s"
+
+#351
+En: "rockets"
+Gr: "Raketen"
+Fr: "roquettes"
+
+#352
+En: "1 rocket picked up"
+Gr: "1 Rakete aufgenommen"
+Fr: "1 roquette ramass�e"
+
+#353
+En: "%d rockets picked up"
+Gr: "%d Raketen aufgenommen"
+Fr: "%d roquettes ramass�es"
+
+#354
+En: "Rail Driver rounds"
+Gr: "Railgun-Patronen"
+Fr: "Balles pour arme �lectromagn�tique"
+
+#355
+En: "1 Rail Driver round picked up"
+Gr: "1 Railgun-Patrone aufgenommen"
+Fr: "1 balle pour arme �lectromagn�tique ramass�e"
+
+#356
+En: "%d Rail Driver rounds picked up"
+Gr: "%d Railgun-Patronen aufgenommen"
+Fr: "%d balles pour arme �lectromagn�tique ramass�es"
+
+#357
+En: "Control Baton Battery"
+Gr: "Elektroschocker-Batterien"
+Fr: "Batterie de b�ton"
+
+#358
+En: "1 Control Baton battery picked up"
+Gr: "1 Elektroschock-Batterie aufgenommen"
+Fr: "1 batterie de b�ton ramass�e"
+
+#359
+En: "%d Control Baton batteries picked up"
+Gr: "%d Elektroschock-Batterien aufgenommen"
+Fr: "%d batteries de b�ton ramass�es"
+
+#360
+En: "Medical Kit"
+Gr: "Verbandskasten"
+Fr: "Trousse � pharmacie"
+
+#361
+En: "Medical Kit picked up"
+Gr: "Verbandskasten aufgenommen"
+Fr: "Trousse � pharmacie ramass�e"
+
+#362
+En: "First Aid Kit"
+Gr: "Erste-Hilfe-Kasten"
+Fr: "Trousse de premiers soins"
+
+#363
+En: "First Aid Kit picked up"
+Gr: "Erste-Hilfe-Kasten aufgenommen"
+Fr: "Trousse de premiers soins ramass�e"
+
+#364
+En: "Envirosuit Armor"
+Gr: "Schutzanzug"
+Fr: "Armure d'enviro-�quipement"
+
+#365
+En: "Envirosuit Armor picked up"
+Gr: "Schutzanzug aufgenommen"
+Fr: "Armure d'enviro-�quipement ramass�e"
+
+#366
+En: "Miner Envirosuit"
+Gr: "Arbeiteranzug"
+Fr: "Enviro-�quipement de mineur"
+
+#367
+En: "Miner Envirosuit picked up"
+Gr: "Arbeiteranzug aufgenommen"
+Fr: "Enviro-�quipement de mineur ramass�"
+
+#368
+En: "Doctor's Clothing"
+Gr: "Doktorkittel"
+Fr: "Tenue de m�decin"
+
+#369
+En: "Doctor's Clothing picked up"
+Gr: "Doktorkittel aufgenommen"
+Fr: "Tenue de m�decin ramass�e"
+
+#370
+En: "Nano canister"
+Gr: "Nanokanister"
+Fr: "Nano-bombe"
+
+#371
+En: "Nano canister picked up"
+Gr: "Nanokanister aufgenommen"
+Fr: "Nano-bombe ramass�e"
+
+#372
+En: "Keycard"
+Gr: "Zutrittskarte"
+Fr: "Passe"
+
+#373 
+En: "Keycard picked up"
+Gr: "Zutrittskarte aufgenommen"
+Fr: "Passe ramass�"
+
+#374
+En: "Shouldn't be using this"
+Gr: "Ich sollte das nicht benutzen"
+Fr: "Ne pas utiliser ceci"
+
+
+// END ITEMS.TBL STUFF
+
+#375
+En: "Please insert an analog controller (DUALSHOCK\v183 2) into controller port 2 and try again."
+Gr: "Bitte stecken Sie einen Analog-Controller in Controller-Anschluss 2 und versuchen Sie es erneut."
+Fr: "Ins�rez votre manette analogique dans le port de manette N\v1852 et r�essayez."
+
+#376
+En: "Preset E"
+Gr: "Vorschlag E"
+Fr: "R�glage E"
+
+#377
+En: "Preset F"
+Gr: "Vorschlag F"
+Fr: "R�glage F"
+
+#378
+En: "Preset G"
+Gr: "Vorschlag G"
+Fr: "R�glage G"
+
+#379
+En: "Preset H"
+Gr: "Vorschlag H"
+Fr: "R�glage H"
+
+#380
+En: "Turn"
+Gr: "Drehen"
+Fr: "Tourner"
+
+#381
+En: "Pitch"
+Gr: "Neigen"
+Fr: "Lancer"
+
+#382
+En: "Sidestep"
+Gr: "Seitw�rts"
+Fr: "Esquiver"
+
+#383
+En: "Walk"
+Gr: "Gehen"
+Fr: "Marcher"
+
+#384
+En: "Kills:"
+Gr: "Kills:"
+Fr: "Tu�s:"
+
+#385
+En: "Rank:"
+Gr: "Rang:"
+Fr: "Classe:"
+
+#386
+En: "Press %s to continue."
+Gr: "Dr�cken Sie %s, um fortzusetzen."
+Fr: "Appuyez sur %s pour continuer."
+
+#387
+En: "DVD retrying read"
+Gr: "Erneuter Versuch, DVD zu lesen."
+Fr: "Nouvel essai de lecture du DVD"
+
+#388
+En: "Select an option."
+Gr: "W�hlen Sie eine Option."
+Fr: "S�lectionnez une option."
+
+#389
+En: "SUMMONER\nTRAILER"
+Gr: "(gr) SUMMONER\nTRAILER"
+Fr: "(fr) SUMMONER\nTRAILER"
+
+#390
+En: "An unformatted memory card (8MB) (for\nPlayStation\v183 2) was detected in MEMORY CARD\nslot %d.  Would you like to format it now?"
+Gr: "Eine unformatierte Memory Card (8 MB) (f�r\nPlayStation\v183 2) befindet sich in MEMORY CARD\nSteckplatz %d. Soll diese nun formatiert werden?"
+Fr: "Une memory card (8 MB) (pour PlayStation\v183 2)\nnon format�e a �t� d�tect�e dans la fente pour MEMORY CARD N\v185%d.\nVoulez-vous la formater maintenant?"
+
+#391
+En: "No Red Faction saved games were found."
+Gr: "Es wurde kein Spielstand von Red Faction gefunden."
+Fr: "Aucune partie sauvegard�e de Red Faction n'a �t� trouv�e."
+
+#392
+En: "Please insert a\nmemory card (8MB)\n(for PlayStation\v183 2)."
+Gr: "Bitte stecken Sie eine\nMemory Card (8 MB)\n(f�r PlayStation\v183 2) ein."	
+Fr: "Veuillez ins�rer une\nmemory card (8 MB)\n(pour PlayStation\v183 2)."
+
+#393
+En: "No memory card (8MB) (for PlayStation\v183 2) detected."
+Gr: "Keine Memory Card (8 MB) (f�r PlayStation\v183 2) gefunden."
+Fr: "Aucune memory card (8 MB) (pour PlayStation\v183 2) d�tect�e."
+
+
+#394
+En: "Game over."
+Gr: "Game over."
+Fr: "Game over."
+
+#395
+En: "10"
+Gr: "10"
+Fr: "10"
+
+#396
+En: "20"
+Gr: "20"
+Fr: "20"
+
+#397
+En: "30"
+Gr: "30"
+Fr: "30"
+
+#398
+En: "35"
+Gr: "35"
+Fr: "35"
+
+#399
+En: "40"
+Gr: "40"
+Fr: "40"
+
+#400
+En: "45"
+Gr: "45"
+Fr: "45"
+
+#401
+En: "10 minutes"
+Gr: "10 Minuten"
+Fr: "10 minutes"
+
+#402
+En: "20 minutes"
+Gr: "20 Minuten"
+Fr: "20 minutes"
+
+#403
+En: "35 minutes"
+Gr: "35 Minuten"
+Fr: "35 minutes"
+
+#404
+En: "40 minutes"
+Gr: "40 Minuten"
+Fr: "40 minutes"
+
+#405
+En: "45 minutes"
+Gr: "45 Minuten"
+Fr: "45 minutes"
+
+#406
+En: "50 minutes"
+Gr: "50 Minuten"
+Fr: "50 minutes"
+
+#407
+En: "HUD Messages:"
+Gr: "HUD Nachrichten:"
+Fr: "Messages HUD:"
+
+#408
+En: "Load Player Settings from MEMORY CARD slot 1?"
+Gr: "Einstellungen von MEMORY CARD Steckplatz 1 laden?"
+Fr: "Charger les param�tres du joueur depuis la fente pour MEMORY CARD N\v1851?"
+
+#409
+En: "Player 1 loaded successfully."
+Gr: "Daten von Player 1 erfolgreich geladen."
+Fr: "Joueur 1 correctement charg�."
+
+#410
+En: "No player settings found on memory card (8MB) (for PlayStation\v183 2) in MEMORY CARD slot 1."
+Gr: "Keine Einstellungen auf der Memory Card (8 MB) (f�r PlayStation\v183 2) in MEMORY CARD\nSteckplatz 1 gefunden."
+Fr: "Aucune option de joueur sur la memory card (8 MB) (pour PlayStation\v183 2) ins�r�e dans la fente pour MEMORY CARD N\v1851."
+
+#411
+En: "An unformatted memory card (8MB) (for\nPlayStation\v183 2) was detected in MEMORY CARD\nslot %d.  Would you like to format it now?"
+Gr: "Eine unformatierte Memory Card (8 MB) (f�r\nPlayStation\v183 2) befindet sich in MEMORY CARD\nSteckplatz %d. Soll diese nun formatiert werden?"
+Fr: "Une memory card (8 MB) (pour PlayStation\v183 2)\nnon format�e a �t� d�tect�e dans la fente pour\nMEMORY CARD N\v185 %d.\nVoulez-vous la formater maintenant?"
+
+#412
+En: "Video"
+Gr: "Video"
+Fr: "Vid�o"
+
+#413
+En: "AUDIO / VIDEO"
+Gr: "AUDIO/VIDEO"
+Fr: "AUDIO/VIDEO"
+
+#414
+En: "   LOAD\nSETTINGS"
+Gr: "SETTINGS\n  LADEN"
+Fr: "CHARGER\nOPTIONS"
+
+// NOTE: 415 and 416 constitute 1 phrase, split into 2 lines
+#415
+En: "Longest"
+Gr: "Absch�sse"
+Fr: "Tuerie la"
+
+#416
+En: "Killing Spree"
+Gr: "in Folge"
+Fr: "plus longue"
+
+// NOTE: 417 and 418 constitute 1 phrase, split into 2 lines
+#417
+En: "Player"
+Gr: "Spieler"
+Fr: "Joueur"
+
+#418
+En: "Kills"
+Gr: "Kills"
+Fr: "Tu�s"
+
+// NOTE: %s:%s:%s is time in the format hh:mm:ss
+#419
+En: "Elapsed time: %s:%s:%s"
+Gr: "Verstrichene Zeit: %s:%s:%s"
+Fr: "Temps �coul�: %s:%s:%s"
+
+#420
+En: "Attention!"
+Gr: "Achtung!"
+Fr: "Attention!"
+
+#421
+En: "DirectX failed to initialize.  DirectX v8.0 or higher is required in order to play Red Faction."
+Gr: "DirectX konnte nicht initialisiert werden. DirectX 8.0 oder h�her wird zum Spielen von Red Faction ben�tigt."
+Fr: "Impossible d'initialiser DirectX. Red Faction n�cessite DirectX 8.0 ou une version sup�rieure."
+
+#422
+En: "You must allow Setup to configure your default settings before playing Red Faction for the first time.\n\nTo do this, press the 'Setup' button from the main menu and examine each tab.  Then, press the 'OK' button at the bottom."
+Gr: "Das Setup muss Ihre Standardeinstellungen konfigurieren, bevor Sie Red Faction das erste Mal spielen k�nnen.\n\nKlicken Sie dazu auf die 'Setup'-Schaltfl�che im Hauptmen� und �berpr�fen Sie jede Registerkarte. Klicken Sie anschlie�end am unteren Rand des Fensters auf 'OK'."
+Fr: "Laissez le programme de configuration r�gler vos param�tres par d�faut avant de jouer � Red Faction pour la premi�re fois.\n\nAppuyez sur le bouton 'Configuration' du menu principal et examinez chaque onglet. Puis appuyez sur le bouton OK en bas de la fen�tre."
+
+#423
+En: "No Rendering Device Selected!"
+Gr: "Kein Rendering-Treiber ausgew�hlt!"
+Fr: "Aucune carte graphique s�lectionn�e!"
+
+#424
+En: "You must allow Setup to configure your Video Card setting before playing Red Faction.\n\nTo do this, press the 'Setup' button from the main menu and click on the Video Tab.  Then, press the 'Detect Available Cards' button and choose your video mode.  Finally, press the 'OK' button at the bottom."
+Gr: "Das Setup muss Ihre Grafikkarte konfigurieren, bevor Sie Red Faction das erste Mal spielen k�nnen.\n\nKlicken Sie dazu auf die 'Setup'-Schaltfl�che und anschlie�end auf die Grafik-Registerkarte. Klicken Sie danach auf 'Detect Available Cards' und w�hlen Sie einen Grafikmodus aus. Klicken Sie abschlie�end auf 'OK'."
+Fr: "Laissez le programme configurer votre carte graphique avant de jouer � Red Faction.\n\nAppuyez sur le bouton 'Configuration' du menu principal, puis cliquez sur l'onglet 'Vid�o'. Ensuite, appuyez sur le bouton 'D�tecter cartes disponibles' et choisissez votre mode vid�o. Enfin, appuyez sur le bouton OK en bas de la fen�tre."
+
+#425
+En: "DirectX 8.0 or higher Required!"
+Gr: "DirectX 8.0 oder h�her ben�tigt!"
+Fr: "DirectX 8.0 ou version sup�rieure n�cessaire!"
+
+#426
+En: "You must install DirectX 8.0 or higher to run Red Faction.\n\nTo do this, press the 'Setup' button from the main menu and click on the 'DirectX' tab and follow the direction on it."
+Gr: "Sie m�ssen DirectX 8.0 oder h�her installieren, um Red Faction spielen zu k�nnen.\n\nKlicken Sie dazu auf die 'Setup'-Schaltfl�che des Hauptmen�s und dort auf die 'DirectX'-Registerkarte. Folgen Sie anschlie�end den Anweisungen."
+Fr: "Vous devez installer DirectX 8.0 ou une version sup�rieure pour pouvoir lancer Red Faction.\n\nAppuyez sur le bouton 'Configuration' du menu principal, cliquez sur l'onglet 'DirectX' et suivez les instructions."
+
+#427
+En: "Error Launching Red Faction"
+Gr: "Fehler beim Starten von Red Faction"
+Fr: "Erreur au cours du lancement de Red Faction"
+
+#428
+En: "Setup"
+Gr: "Setup"
+Fr: "Configuration"
+
+#429
+En: "Error Loading README.TXT"
+Gr: "Fehler beim Laden der 'README.TXT'-Datei"
+Fr: "Erreur lors du chargement de README.TXT"
+
+#430
+En: "No uninstall information found."
+Gr: "Kann keine Deinstallations-Informationen finden."
+Fr: "Impossible de trouver informations sur d�sinstallation."
+
+#431
+En: "Couldn't Uninstall"
+Gr: "Kann nicht deinstallieren"
+Fr: "D�sinstallation impossible"
+
+#432
+En: "Are you sure you want to delete '%s' and all of its components?"
+Gr: "Sind Sie sicher, dass Sie '%s' und alle zugeh�rigen Komponenten l�schen m�chten?"
+Fr: "Etes-vous s�r de vouloir supprimer '%s' et tous ses composants?"
+
+#433
+En: "Confirm File Deletion"
+Gr: "L�schvorgang best�tigen"
+Fr: "Confirmer la suppression des fichiers"
+
+#434
+En: "Error Launching Uninstaller"
+Gr: "Fehler beim Starten des Deinstallationsprogrammes"
+Fr: "Erreur au cours du lancement du programme de d�sinstallation"
+
+#435
+En: "Welcome to Red Faction!"
+Gr: "Willkommen bei Red Faction!"
+Fr: "Bienvenue dans le monde de Red Faction!"
+
+#436
+En: "Since this is your first time running Red Faction, you will now be automatically taken to the Setup window.  \n\nNOTE TO USER:\nIt is important that you view each section of the Setup window and configure it to your liking.  Once you are satisfied with your settings, select the OK button at the bottom of the Setup window to save them.\n\nRed Faction requires DirectX 8 to be installed in order to properly run.\nPlease view the DirectX tab in the Setup window for more information."
+Gr: "Da Sie Red Faction zum ersten Mal starten, wird automatisch das Setup-Fenster ge�ffnet. \n\nHINWEIS F�R DEN SPIELER:\nEs ist wichtig, dass Sie jede Registerkarte genau �berpr�fen und die Einstellungen Ihren W�nschen anpassen. Sobald Sie mit den Einstellungen zufrieden sind, k�nnen Sie auf die 'OK'-Schaltfl�che klicken, um die �nderungen abzuspeichern.\n\nRed Faction ben�tigt DirectX 8, um zu funktionieren.\nWeitere Informationen dazu finden Sie, wenn Sie auf die 'DirectX'-Registerkarte klicken."
+Fr: "Comme vous lancez Red Faction pour la premi�re fois, vous allez acc�der automatiquement � la fen�tre Configuration. \n\nNOTE AUX UTILISATEURS:\nvous devez imp�rativement consulter tous les onglets de la fen�tre Configuration pour d�finir les diff�rents param�tres � votre convenance. Apr�s avoir d�fini vos param�tres, cliquez sur le bouton OK situ� en bas de la fen�tre Configuration pour les sauvegarder.\n\nPour un bon fonctionnement de Red Faction, DirectX 8.0 doit �tre install� sur votre ordinateur.\nPour de plus amples informations, reportez-vous � l'onglet DirectX de la fen�tre Configuration."
+
+#437
+En: "launcher_help.txt"
+Gr: "GER_launcher_help.txt"
+Fr: "FRA_launcher_help.txt"
+
+#438
+En: "Network"
+Gr: "Netzwerk"
+Fr: "R�seau"
+
+#439
+En: "Internet Connection"
+Gr: "Internet-Verbindung"
+Fr: "Connexion Internet"
+
+#440
+En: "Connection Speed"
+Gr: "Verbindungsgeschwindigkeit"
+Fr: "Vitesse de connexion"
+
+#441
+En: "None Specified"
+Gr: "Keine Angabe"
+Fr: "Ind�termin�e"
+
+#442
+En: "56K Modem"
+Gr: "56K Modem"
+Fr: "Modem 56K"
+
+#443
+En: "ISDN"
+Gr: "ISDN"
+Fr: "ISDN"
+
+#444
+En: "Cable/DSL"
+Gr: "Kabelmodem/DSL"
+Fr: "C�ble/ADSL"
+
+#445
+En: "T1/LAN"
+Gr: "T1/LAN"
+Fr: "T1/LAN"
+
+#446
+En: "Other (specify in bytes per second)"
+Gr: "Andere (Rate in Bytes/Sekunde)"
+Fr: "Autre (en octets par seconde)"
+
+#447
+En: "Multiplay/Online Account"
+Gr: "Mehrspieler/Online Account"
+Fr: "Compte multijoueur/online"
+
+#448
+En: "Login"
+Gr: "Login"
+Fr: "Login"
+
+#449
+En: "Password"
+Gr: "Passwort"
+Fr: "Mot de passe"
+
+#450
+En: "Skip version check in PXO"
+Gr: "�berspringe Versions-Check in PXO"
+Fr: "Passer v�rification version dans PXO"
+
+#451
+En: "Chat Banners"
+Gr: "Chat Banner"
+Fr: "Banni�res chat"
+
+#452
+En: "Misc"
+Gr: "Verschiedenes"
+Fr: "Divers"
+
+#453
+En: "Force local port"
+Gr: "Lokalen Port erzwingen"
+Fr: "Forcer d�signation du port local"
+
+#454
+En: "Setup"
+Gr: "Setup"
+Fr: "Configuration"
+
+#455
+En: "None"
+Gr: "Kein"
+Fr: "Aucune"
+
+#456
+En: "You must select a download site."
+Gr: "Sie m�ssen eine Download-Seite w�hlen."
+Fr: "Vous devez s�lectionner un site de t�l�chargement."
+
+#457
+En: "Site Selection"
+Gr: "Seitenauswahl"
+Fr: "S�lection du site"
+
+#458
+En: "Site Name"
+Gr: "Seitenname"
+Fr: "Nom du site"
+
+#459
+En: "URL"
+Gr: "URL"
+Fr: "URL"
+
+#460
+En: "Location"
+Gr: "Standort"
+Fr: "Localisation"
+
+#461
+En: "Patch Download Site Selection"
+Gr: "Auswahl der Patch-Download-Seiten"
+Fr: "S�lection du site de t�l�chargement du patch"
+
+#462
+En: "Select the site you wish to download from:"
+Gr: "W�hlen Sie die Seite, von der Sie die Datei kopieren wollen:"
+Fr: "S�lectionnez le site � partir duquel vous souhaitez t�l�charger:"
+
+#463
+En: "The site info file could not be opened and parsed."
+Gr: "Die Info-Datei der Seite konnte nicht ge�ffnet werden oder wurde nicht gefunden."
+Fr: "Impossible d'ouvrir et de d�coder le fichier d'information du site."
+
+#464
+En: "Speed"
+Gr: "Geschwindigkeit"
+Fr: "Vitesse"
+
+#465
+En: "Low"
+Gr: "Niedrig"
+Fr: "Basse"
+
+#466
+En: "Medium"
+Gr: "Normal"
+Fr: "Moyenne"
+
+#467
+En: "High"
+Gr: "Hoch"
+Fr: "Haute"
+
+#468
+En: "%d MHz\n"
+Gr: "%d MHz\n"
+Fr: "%d MHz\n"
+
+#469
+En: "%d MB"
+Gr: "%d MB"
+Fr: "%d Mo"
+
+#470
+En: "%d MB/s"
+Gr: "%d MB/s"
+Fr: "%d Mo/s"
+
+#471
+En: "%d MB/s\n"
+Gr: "%d MB/s\n"
+Fr: "%d Mo/s\n"
+
+#472
+En: "unknown"
+Gr: "unbekannt"
+Fr: "ind�termin�e"
+
+#473
+En: "Default Detail Level:"
+Gr: "Standard-Grafikaufl�sung:"
+Fr: "Niveau de d�tails par d�faut:"
+
+#474
+En: "Properties"
+Gr: "Eigenschaften"
+Fr: "Propri�t�s"
+
+#475
+En: "CPU Type:"
+Gr: "CPU-Typ:"
+Fr: "Type de processeur:"
+
+#476
+En: "CPU Speed:"
+Gr: "CPU-Geschwindigkeit:"
+Fr: "Vitesse de processeur:"
+
+#477
+En: "Total RAM:"
+Gr: "RAM:"
+Fr: "RAM totale:"
+
+#478
+En: "RAM Transfer Rate:"
+Gr: "RAM-�bertragungsrate:"
+Fr: "Taux de transfert RAM:"
+
+#479
+En: "VRAM Transfer Rate:"
+Gr: "VRAM-�bertragungsrate:"
+Fr: "Taux de transfert VRAM:"
+
+#480
+En: "3D Graphics Accelerator*:"
+Gr: "3D-Grafikbeschleunigerkarte*:"
+Fr: "Acc�l�ration 3D*:"
+
+#481
+En: "*Configured in the 'Video' tab."
+Gr: "*Konfiguriert in der 'Grafik'-Registerkarte."
+Fr: "*configur�e dans onglet 'Vid�o'."
+
+#482
+En: "The Red Faction Launcher needs to be updated to a newer version.\nHowever, the replacement executable or patch file could not be accessed.\n\nTherefore, the Launcher cannot be updated at this time."
+Gr: "Das Startmen� von Red Faction muss aktualisiert werden.\nLeider ist kein Zugriff auf die Ersatzdatei bzw. den Patch m�glich.\n\nAus diesem Grund kann das Startmen� nicht aktualisiert werden."
+Fr: "Le lanceur de Red Faction doit �tre mis � jour.\nMais impossible d'acc�der au programme de remplacement ou au patch.\n\nLa mise � jour du lanceur est donc impossible pour le moment."
+
+#483
+En: "Launcher Update"
+Gr: "Startmen�-Update"
+Fr: "Mettre � jour le lanceur"
+
+#484
+En: "The Red Faction Launcher needs to be updated to a newer version.\nHowever, the Update Launcher executable could not be found (or could not be accessed).\n\nTherefore, the Launcher cannot be updated at this time."
+Gr: "Das Startmen� von Red Faction muss aktualisiert werden.\nAllerdings wurde die Update-Datei des Startmen�s nicht gefunden bzw. der Zugriff verweigert.\n\nAus diesem Grund kann das Startmen� nicht aktualisiert werden."
+Fr: "Le lanceur de Red Faction doit �tre mis � jour.\nMais impossible de trouver le programme de mise � jour du lanceur (ou d'y acc�der).\n\nLa mise � jour du lanceur est donc impossible pour le moment."
+
+#485
+En: "The Red Faction Launcher needs to be updated to a newer version.\nIt will now be shutdown, modified, and then restarted.\n\nThis may take several seconds..."
+Gr: "Das Startmen� von Red Faction muss aktualisiert werden.\nDazu wird es jetzt beendet, modifiziert und anschlie�end wieder gestartet.\n\nDies kann einige Sekunden dauern..."
+Fr: "Le lanceur de Red Faction doit �tre mis � jour.\nLe programme va donc �tre ferm�, modifi� puis relanc�.\n\nCette op�ration peut prendre quelques secondes..."
+
+#486
+En: "Red Faction Auto-Update"
+Gr: "Red Faction Auto-Update"
+Fr: "Mise � jour automatique de Red Faction"
+
+#487
+En: "Message of the Day:"
+Gr: "Nachricht des Tages:"
+Fr: "Message du jour:"
+
+#488
+En: "Your Version:"
+Gr: "Deine Version:"
+Fr: "Votre version:"
+
+#489
+En: "Latest Version:"
+Gr: "Neueste Version:"
+Fr: "Dern. version:"
+
+#490
+En: "Progress:"
+Gr: "Fortschritt:"
+Fr: "Progr�s:"
+
+#491
+En: "Status:"
+Gr: "Status:"
+Fr: "Etat:"
+
+#492
+En: "Error opening version info file"
+Gr: "Fehler beim �ffnen der Info-Datei"
+Fr: "Erreur � l'ouverture du fichier d'information de cette version"
+
+#493
+En: "Error!"
+Gr: "Fehler!"
+Fr: "Erreur!"
+
+#494
+En: "Up to date"
+Gr: "Aktuellste Version installiert"
+Fr: "Mis � jour"
+
+#495
+En: "Waiting for User"
+Gr: "Warte auf Spieler"
+Fr: "Attente utilisateur"
+
+#496
+En: "Select Patch Download Site"
+Gr: "Seite ausw�hlen, von der der Patch kopiert werden soll."
+Fr: "S�lectionner le site de t�l�chargement du patch"
+
+#497
+En: "Patching Failed!!"
+Gr: "Patch-Versuch fehlgeschlagen!"
+Fr: "La correction a �chou�!"
+
+#498
+En: "Connecting"
+Gr: "Verbinde"
+Fr: "Connexion en cours"
+
+#499
+En: "Downloading File"
+Gr: "Lade Datei runter"
+Fr: "T�l�chargement en cours"
+
+#500
+En: "URL redirected"
+Gr: "URL umgeleitet"
+Fr: "R�orientation de l'URL"
+
+#501
+En: "Download Cancelled"
+Gr: "Download abgebrochen"
+Fr: "T�l�chargement annul�"
+
+#502
+En: "File not Found Error"
+Gr: "Fehler: Datei nicht gefunden"
+Fr: "Erreur fichier introuvable"
+
+#503
+En: "File Download HTTP error.  Status code: %d"
+Gr: "HTTP-Fehler bei Datei-Download.  Statuscode: %d"
+Fr: "Erreur HTTP de t�l�chargement. Code �tat: %d"
+
+#504
+En: "Error trying to write file"
+Gr: "Fehler beim Versuch, die Datei zu schreiben"
+Fr: "Erreur d'�criture"
+
+#505
+En: "Sorry, there is no message of the day."
+Gr: "Es gibt keine Nachricht des Tages."
+Fr: "D�sol�, pas de Message du jour."
+
+#506
+En: "Unable to continue!!  Press Cancel."
+Gr: "Kann nicht fortsetzen!  Klicke auf Abbrechen."
+Fr: "Impossible de continuer!! Appuyez sur Annuler."
+
+#507
+En: "Unable to continue"
+Gr: "Kann nicht fortsetzen"
+Fr: "Impossible de continuer"
+
+#508
+En: "Downloading MOTD File"
+Gr: "Kopiere Info-Datei"
+Fr: "T�l�chargement du Mdj"
+
+#509
+En: "Downloading Version Info File"
+Gr: "Kopiere Versions-Info-Datei"
+Fr: "T�l�chargement du fichier d'information de la version"
+
+#510
+En: "Downloading Sites File"
+Gr: "Kopiere Seiten-Datei"
+Fr: "T�l�chargement des sites en cours"
+
+#511
+En: "Unable to read sites from version.nfo"
+Gr: "Kann Seiten aus 'version.nfo' nicht lesen"
+Fr: "Impossible de lire les sites sur version.nfo"
+
+#512
+En: "Downloading Patch File"
+Gr: "Patchdatei wird empfangen"
+Fr: "T�l�chargement du patch en cours"
+
+#513
+En: "Download %d bytes of %d  (%d%%)"
+Gr: "Datenempfang %d Bytes von %d  (%d%%)"
+Fr: "%d octets de %d (%d%%) t�l�charg�s"
+
+#514
+En: "Need to run Red Faction first to set version info."
+Gr: "Red Faction muss gestartet werden, damit die Versions-Info gesetzt werden kann."
+Fr: "Lancer d'abord Red Faction pour obtenir informations sur la version."
+
+#515
+En: "Press OK to download the new version of Red Faction!!"
+Gr: "Klicke auf OK, um eine neue Version von Red Faction runterzuladen!"
+Fr: "Appuyez sur OK pour t�l�charger nouvelle version de Red Faction!!"
+
+#516
+En: "A new version of Red Faction is available!!!  Press the OK button to download it."
+Gr: "Es ist eine neue Version von Red Faction verf�gbar!  Klicken Sie auf die OK-Schaltfl�che, um den Download zu starten."
+Fr: "Une nouvelle version de Red Faction est disponible!!! Appuyez sur OK pour la t�l�charger."
+
+#517
+En: "Determination: No Update Necessary"
+Gr: "Hinweis: Kein Update erforderlich"
+Fr: "Conclusion: mise � jour inutile"
+
+#518
+En: "Your Red Faction version %d.%02d is currently up to date."
+Gr: "Ihre Red-Faction-Version %d.%02d ist auf dem neuesten Stand."
+Fr: "Votre version de Red Faction %d.%02d est � jour."
+
+#519
+En: "Could not get data from website"
+Gr: "Empfange keine Daten von der Internetseite"
+Fr: "Impossible d'obtenir des donn�es sur site"
+
+#520
+En: "Patching Error"
+Gr: "Update-Fehler"
+Fr: "Erreur lors de la correction"
+
+#521
+En: "Original '%s' contents do not match, update aborted.  Re-installing may be necessary.  \n\n"
+Gr: "Original '%s' Inhalt stimmt nicht �berein, Aktualisierung abgebrochen.  Neuinstallation kann erforderlich sein.  \n\n"
+Fr: "Les donn�es originales de '%s' ne correspondent pas, mise � jour abandonn�e. Une r�installation est peut-�tre n�cessaire.  \n\n"
+
+#522
+En: "If problem persists, please contact rf_pcdemo@volition-inc.com."
+Gr: "Bei Problemen wenden Sie sich bitte an rf_pcdemo@volition-inc.com."
+Fr: "Si le probl�me persiste, contactez rf_pcdemo@volition-inc.com."
+
+#523
+En: "Original '%s' not found, update aborted.  Re-installing may be necessary.  \n\n"
+Gr: "Original '%s' nicht gefunden, Update abgebrochen. Neuinstallation kann notwendig sein.  \n\n"
+Fr: "Impossible de trouver le fichier original '%s', mise � jour abandonn�e. Une r�installation est peut-�tre n�cessaire.  \n\n"
+
+#524
+En: "Processing %s"
+Gr: "Bearbeite %s"
+Fr: "Traitement de %s en cours"
+
+#525
+En: "File Complete!"
+Gr: "Datei abgeschlossen!"
+Fr: "Op�ration termin�e!"
+
+#526
+En: "Searching for systems to update..."
+Gr: "Suche nach Systemen zum Aktualisieren..."
+Fr: "Recherche des fichiers � mettre � jour..."
+
+#527
+En: "Patching Failed!"
+Gr: "Update fehlgeschlagen!"
+Fr: "La correction a �chou�!"
+
+#528
+En: "Patch Library not found."
+Gr: "Patch Library nicht gefunden."
+Fr: "Biblioth�que de patchs introuvable."
+
+#529
+En: "Patch Library not found.  Cannot Patch Red Faction."
+Gr: "Patch Library nicht gefunden. Kann Red Faction nicht aktualisieren."
+Fr: "Biblioth�que de patchs introuvable. Impossible d'apporter des corrections � Red Faction."
+
+#530
+En: "Beginning Patching..."
+Gr: "Beginne Update..."
+Fr: "Correction en cours..."
+
+#531
+En: "Patching Complete!"
+Gr: "Update komplett!"
+Fr: "Correction termin�e!"
+
+#532
+En: "Detect D3D"
+Gr: "D3D gefunden"
+Fr: "D�tecter D3D"
+
+#533
+En: "Selected Video Card:"
+Gr: "Ausgew�hlte Grafikkarte:"
+Fr: "Carte graphique s�lectionn�e:"
+
+#534
+En: "A 3D accelerated video card must be selected in order to run Red Faction.  Select your desired renderer from the above drop-down list."
+Gr: "Um Red Faction spielen zu k�nnen, muss zuvor eine 3D-Grafikkarte ausgew�hlt werden.  W�hlen Sie die gew�nschte Karte aus der Drop-Down-Liste."
+Fr: "S�lectionnez une carte acc�l�ratrice 3D pour pouvoir jouer � Red Faction, puis le mode de rendu de votre choix dans le menu d�roulant ci-dessus."
+
+#535
+En: "Detect Available Cards"
+Gr: "Verf�gbare Grafikkarten suchen"
+Fr: "D�tecter cartes disponibles"
+
+#536
+En: "Options:"
+Gr: "Optionen:"
+Fr: "Options:"
+
+#537
+En: "Detect Direct3D"
+Gr: "Direct3D suchen"
+Fr: "D�tecter Direct3D"
+
+#538
+En: "No 3D acceleration"
+Gr: "Keine 3D-Grafikkarte"
+Fr: "Pas d'acc�l�ration 3D"
+
+#539
+En: "Red Faction requires Direct3D hardware accleration. You will not be able to run Red Faction without it"
+Gr: "Red Faction ben�tigt eine zu Glide oder Direct3D kompatible Grafikkarte. Ohne eine entsprechende Karte kann Red Faction nicht ausgef�hrt werden."
+Fr: "Red Faction n�cessite une carte acc�l�ratrice 3D compatible Direct3D pour faire fonctionner Red Faction."
+
+#540
+En: "Warning!"
+Gr: "Warnung!"
+Fr: "Avertissement!"
+
+#541
+En: "Red Faction requires Detonator 3 video drivers version 6.50 (or greater) in order to work correctly, and has detected older video drivers on your computer.  You may experience problems running Red Faction unless you upgrade your video drivers first.\n"
+Gr: "Red Faction ben�tigt Detonator 3 Grafikkartentreiber der Version 6.50 (oder h�her), um fehlerfrei zu laufen. Auf Ihrem Rechner sind allerdings �ltere Treiber installiert. Solange Sie nicht die aktuellsten Treiber installieren, k�nnen Probleme auftreten.\n"
+Fr: "Pour fonctionner correctement, Red Faction n�cessite les pilotes vid�o Detonator 3 version 6.50 ou sup�rieure. Le programme a d�tect� des versions plus anciennes de ces pilotes. Si vous ne les mettez pas � jour, Red Faction risque de ne pas fonctionner correctement.\n"
+
+#542
+En: "Red Faction has detected that your video drivers may be out of date.  You may experience problems or visual glitches running Red Faction unless you upgrade your video drivers first.\n"
+Gr: "Red Faction hat festgestellt, dass Ihre Grafikkartentreiber veraltet sind. Solange Sie nicht die aktuellsten Treiber installieren, k�nnen Probleme auftreten.\n"
+Fr: "Red Faction a d�tect� des pilotes qui ne semblent pas �tre � jour. Si vous ne les mettez pas � jour, vous risquez de rencontrer quelques probl�mes graphiques.\n"
+
+#543
+En: "OK"
+Gr: "OK"
+Fr: "OK"
+
+#544
+En: "Cancel"
+Gr: "Abbrechen"
+Fr: "Annuler"
+
+#545
+En: "Apply"
+Gr: "Anwenden"
+Fr: "Appliquer"
+
+#546
+En: "Red Faction Launcher Help"
+Gr: "Hinweise zum Startmen� von Red Faction"
+Fr: "Aide sur le lanceur de Red Faction"
+
+#547
+En: "Begin Download"
+Gr: "Download beginnen"
+Fr: "Lancer t�l�chargement"
+
+#548
+En: "Audio"
+Gr: "Audio"
+Fr: "Audio"
+
+#549
+En: "No Sound"
+Gr: "Kein Sound"
+Fr: "Pas de son"
+
+#550
+En: "DirectSound"
+Gr: "DirectSound"
+Fr: "DirectSound"
+
+#551
+En: "EAX"
+Gr: "EAX"
+Fr: "EAX"
+
+#552
+En: "no sound"
+Gr: "Kein Sound"
+Fr: "pas de son"
+
+#553
+En: "Currently Selected Sound Card"
+Gr: "Ausgew�hlte Soundkarte"
+Fr: "Carte son actuellement s�lectionn�e"
+
+#554
+En: "Detect Available Sound Cards"
+Gr: "Finde verf�gbare Soundkarten"
+Fr: "D�tecter cartes son disponibles"
+
+#555
+En: "Enable Launcher Sounds"
+Gr: "Startmen�-Sounds aktivieren"
+Fr: "Activer sons du lanceur"
+
+#556
+En: "DirectX"
+Gr: "DirectX"
+Fr: "DirectX"
+
+#557
+En: "Up to Date"
+Gr: "Aktuellste Version installiert"
+Fr: "Mis � jour"
+
+#558
+En: "Update Required"
+Gr: "Update ben�tigt"
+Fr: "Mise � jour n�cessaire"
+
+#559
+En: "Need to Install"
+Gr: "Installation notwendig"
+Fr: "Installation n�cessaire"
+
+#560
+En: "Windows NT has DirectX built in.  If you are running NT 4.0 you should have Service Pack 3 (SP3) or later installed.  For detailed information on NT Service Packs (including download links), go to:\n%s.\n\nDo you want to go to this link?"
+Gr: "Windows NT hat DirectX implementiert. Wenn Sie mit NT 4.0 arbeiten, sollten Sie das Service Pack 3 (SP3) oder ein neueres installiert haben. F�r detailliertere Informationen �ber das NT Service Pack (inklusive Links zum Download) sollten Sie die Seite \n%s besuchen.\n\nM�chten Sie die Seite jetzt besuchen?"
+Fr: "DirectX est int�gr� � Windows NT. Si vous utilisez NT 4.0, Service Pack 3 (SP3) doit d�j� �tre install� sur votre ordinateur (ou une version sup�rieure). Pour obtenir de plus amples informations sur les Service Packs de Windows NT (ainsi que des liens de t�l�chargements), allez sur:\n%s.\n\nVoulez-vous aller � cette adresse maintenant?"
+
+#561
+En: "Your version of DirectX is less than 8.0.  It is recommended that you install DirectX 8.0 on your system.\n\nDo you want to install DirectX 8.0?\n\n"
+Gr: "Ihre Version von DirectX ist �lter als die Version 8.0. Es wird empfohlen, dass Sie DirectX 8.0 auf Ihrem Rechner installieren.\n\nM�chten Sie DirectX 8.0 jetzt installieren?\n\n"
+Fr: "Votre version de DirectX est ant�rieure � DirectX 8.0. Nous vous conseillons d'installer DirectX 8.0.\n\nSouhaitez-vous installer DirectX 8.0?\n\n"
+
+#562
+En: "Your version of DirectX is up to date.\nFor detailed information on the latest version of DirectX (including download links), go to:\n%s.\n\nDo you want to go to this link?"
+Gr: "Ihre Version von DirectX ist auf dem neuesten Stand.\nDetailliertere Informationen zu der neuesten Version von DirectX (inklusive Links zum Download) finden Sie auf der Seite:\n%s.\n\nM�chten Sie die Seite jetzt aufrufen?"
+Fr: "Votre version de DirectX est � jour.\nPour obtenir de plus amples informations sur la derni�re version de DirectX (ainsi que des liens de t�l�chargements), allez sur:\n%s.\n\nVoulez-vous aller � cette adresse maintenant?"
+
+#563
+En: "DirectX Version Info"
+Gr: "Info zur DirectX-Version"
+Fr: "Info version DirectX"
+
+#564
+En: "Your DirectX Version"
+Gr: "Deine DirectX-Version"
+Fr: "Votre version de DirectX"
+
+#565
+En: "Your Version Status"
+Gr: "Ihr Versions-Status"
+Fr: "Etat de votre version"
+
+#566
+En: "Red Faction requires DirectX 8.0"
+Gr: "Red Faction ben�tigt DirectX 8.0"
+Fr: "Red Faction n�cessite DirectX 8.0"
+
+#567
+En: "Install/Update DirectX"
+Gr: "DirectX installieren/aktualisieren"
+Fr: "Installer/Mettre � jour DirectX"
+
+#568
+En: "Error: URL could not be parsed"
+Gr: "Fehler: Zu dieser Adresse kann keine Verbindung hergestellt werden."
+Fr: "Erreur: impossible de d�coder cette adresse"
+
+#569
+En: "Error: Site redirects with no new location"
+Gr: "Fehler: Die Seite verweist auf keine neue Adresse."
+Fr: "Erreur: r�orientation sans nouvelle adresse"
+
+#570
+En: "Error: the redirected URL could not be parsed."
+Gr: "Fehler: Es kann keine Verbindung zur neuen Adresse hergestellt werden."
+Fr: "Erreur: impossible d'acc�der � la nouvelle URL du site."
+
+#571
+En: "Insufficient disk space to download file: "
+Gr: "Nicht ausreichend Speicherplatz verf�gbar, um die Datei runterzuladen: "
+Fr: "M�moire disque dur insuffisante pour t�l�charger: "
+
+#572
+En: "Error trying to download file"
+Gr: "Fehler beim Versuch, die Datei runterzuladen."
+Fr: "Erreur au cours du t�l�chargement du fichier"
+
+#573
+En: "Red Faction Demo Launcher"
+Gr: "Startmen� f�r Red Faction-Demo"
+Fr: "Lanceur de la d�mo de Red Faction"
+
+#574
+En: "Red Faction Launcher"
+Gr: "Startmen� von Red Faction"
+Fr: "Lanceur de Red Faction"
+
+#575
+En: "The operating system is out of memory or resources."
+Gr: "Das Betriebssystem verf�gt nicht �ber gen�gend Arbeitsspeicher oder Ressourcen."
+Fr: "M�moire ou ressources RAM du syst�me d'exploitation insuffisante(s)."
+
+#576
+En: "The .EXE file is invalid (non-Win32 .EXE or error in .EXE image)."
+Gr: "Die .EXE-Datei ist ung�ltig (keine Win32 .EXE oder Fehler in .EXE-Image)."
+Fr: "Le fichier .EXE n'est pas valide (fichier corrompu ou il ne s'agit pas d'un ex�cutable pour Windows)."
+
+#577
+En: "The operating system denied access to the specified file. "
+Gr: "Das Betriebssystem verweigert den Zugriff auf die angegebene Datei."
+Fr: "Acc�s au fichier refus� par le syst�me d'exploitation. "
+
+#578
+En: "The filename association is incomplete or invalid.\r\n(You need to have a default Internet browser installed)"
+Gr: "Die Datei-Verkn�pfung ist nicht vollst�ndig oder fehlerhaft.\r\n(Sie m�ssen einen Standard-Internetbrowser installiert haben.)"
+Fr: "L'extension du fichier est incompl�te ou non valide.\r\n(Un navigateur Internet par d�faut doit �tre install� sur votre ordinateur)."
+
+#579
+En: "The DDE transaction could not be completed because other DDE transactions were being processed."
+Gr: "Die DDE-�bertragung kann nicht abgeschlossen werden, da andere DDE-�bertragungen aktiv sind"
+Fr: "La transaction DDE n'a pas �t� effectu�e car d'autres transactions DDE �taient en cours."
+
+#580
+En: "The DDE transaction failed."
+Gr: "DDE-�bertragung fehlgeschlagen."
+Fr: "La transaction DDE a �chou�."
+
+#581
+En: "The DDE transaction could not be completed because the request timed out."
+Gr: "Die DDE-�bertragung kann nicht abgeschlossen werden, da Sie vom Server getrennt wurden."
+Fr: "La transaction DDE n'a pas �t� effectu�e car le d�lai imparti � la requ�te � �t� d�pass�."
+
+#582
+En: "The specified dynamic-link library was not found."
+Gr: "Die angegebene .DLL-Datei kann nicht gefunden werden."
+Fr: "Impossible de trouver la biblioth�que de liens dynamiques appel�e."
+
+#583
+En: "There was not enough memory to complete the operation."
+Gr: "Nicht gen�gend Speicher, um die Operation zu beenden."
+Fr: "M�moire insuffisante pour effectuer l'op�ration."
+
+#584
+En: "A sharing violation occurred."
+Gr: "Eine Zugriffsverletzung ist aufgetreten."
+Fr: "Une violation de partage est survenue."
+
+#585
+En: "\r\nNo web browser found.  There isn't one installed or if \r\none is installed, it isn't set to be the default browser.\r\n\r\n"
+Gr: "\r\nKeinen Internetbrowser gefunden. Entweder ist keiner installiert oder \r\nes ist keiner als Standard-Internetbrowser angegeben.\r\n\r\n"
+Fr: "\r\nAucun navigateur Internet d�tect�. Il n'y a pas de navigateur install� ou\r\nil n'a pas �t� d�sign� comme navigateur par d�faut.\r\n\r\n"
+
+#586
+En: "Unknown error occurred."
+Gr: "Unbekannter Fehler."
+Fr: "Une erreur ind�termin�e est survenue."
+
+#587
+En: "Red Faction CD #1 not located.  Please insert Red Faction CD #1 and select OK to continue."
+Gr: "Kann CD-ROM #1 von Red Faction nicht finden. Bitte legen Sie die Red-Faction-CD #1 ein und klicken Sie auf OK, um fortzusetzen."
+Fr: "CD #1 de Red Faction non d�tect�. Veuillez ins�rer le CD #1 de Red Faction et appuyer sur OK pour continuer."
+
+#588
+En: "Error reading CD."
+Gr: "CD-Lesefehler."
+Fr: "Erreur de lecture du CD."
+
+#589
+En: "Misc."
+Gr: "Verschiedenes"
+Fr: "Divers"
+
+#590
+En: "Select Language"
+Gr: "Sprache ausw�hlen"
+Fr: "S�lectionner langue"
+
+#591
+En: "English"
+Gr: "Englisch"
+Fr: "Anglais"
+
+#592
+En: "German"
+Gr: "Deutsch"
+Fr: "Allemand"
+
+#593
+En: "Optional Command Line"
+Gr: "Optionale Befehlszeile"
+Fr: "Ligne de commande optionnelle"
+
+#594
+En: "Detect"
+Gr: "Gefunden"
+Fr: "D�tecter"
+
+#595
+En: "Control Baton and battery picked up"
+Gr: "Elektroschocker und Batterie aufgenommen"
+Fr: "B�ton et batterie ramass�s"
+
+#596
+En: "Control Baton and %d batteries picked up"
+Gr: "Elektroschocker und %d Batterien aufgenommen"
+Fr: "B�ton et %d batteries ramass�s"
+
+#597
+En: "12mm Pistol and 1 12mm round picked up"
+Gr: "12mm Pistole und 1 12mm Patrone aufgenommen"
+Fr: "Pistolet 12 mm et 1 balle 12 mm ramass�s"
+
+#598
+En: "12mm Pistol and %d 12mm rounds picked up"
+Gr: "12mm Pistole und %d 12mm Patronen aufgenommen"
+Fr: "Pistolet 12 mm et %d balles 12 mm ramass�s"
+
+#599
+En: "Silenced 12mm Pistol and 1 12mm round picked up"
+Gr: "12mm Pistole mit Schalld�mpfer und 1 12mm Patrone aufgenommen"
+Fr: "Pistolet 12 mm � silencieux et 1 balle 12 mm ramass�s"
+
+#600
+En: "Silenced 12mm Pistol and %d 12mm rounds picked up"
+Gr: "12mm Pistole mit Schalld�mpfer und %d 12mm Patronen aufgenommen"
+Fr: "Pistolet 12 mm � silencieux et %d balles 12 mm ramass�s"
+
+#601
+En: "Automatic Shotgun and 1 shell picked up"
+Gr: "Automatische Pumpgun und 1 Patrone aufgenommen"
+Fr: "Fusil automatique et 1 cartouche ramass�s"
+
+#602
+En: "Automatic Shotgun and %d shells picked up"
+Gr: "Automatische Pumpgun und %d Patronen aufgenommen"
+Fr: "Fusil automatique et %d cartouches ramass�s"
+
+#603
+En: "Sniper Rifle and 1 round picked up"
+Gr: "Scharfsch�tzengewehr und 1 Patrone aufgenommen"
+Fr: "Fusil � lunette et 1 balle ramass�s"
+
+#604
+En: "Sniper Rifle and %d rounds picked up"
+Gr: "Scharfsch�tzengewehr und %d Patronen aufgenommen"
+Fr: "Fusil � lunette et %d balles ramass�s"
+
+#605
+En: "Rocket Launcher and 1 rocket picked up"
+Gr: "Raketenwerfer und 1 Rakete aufgenommen"
+Fr: "Lance-roquettes et 1 roquette ramass�s"
+
+#606
+En: "Rocket Launcher and %d rockets picked up"
+Gr: "Raketenwerfer und %d Raketen aufgenommen"
+Fr: "Lance-roquettes et %d roquettes ramass�s"
+
+#607
+En: "Assault Rifle and 1 5.56mm round picked up"
+Gr: "Sturmgewehr und 1 5.56mm Patrone aufgenommen"
+Fr: "Fusil d'assaut et 1 balle 5.56 mm ramass�s"
+
+#608
+En: "Assault Rifle and %d 5.56mm rounds picked up"
+Gr: "Sturmgewehr und %d 5.56mm Patronen aufgenommen"
+Fr: "Fusil d'assaut et %d balles 5.56 mm ramass�s"
+
+#609
+En: "Submachine Gun and 1 12mm round picked up"
+Gr: "Maschinenpistole und 1 12mm Patrone aufgenommen"
+Fr: "Mitraillette et 1 balle 12 mm ramass�es"
+
+#610
+En: "Submachine Gun and %d 12mm rounds picked up"
+Gr: "Maschinenpistole und %d 12mm Patronen aufgenommen"
+Fr: "Mitraillette et %d balles 12 mm ramass�es"
+
+#611
+En: "Flamethrower and 1 fuel canister picked up"
+Gr: "Flammenwerfer und 1 Benzinkanister aufgenommen"
+Fr: "Lance-flammes et 1 bidon de carburant ramass�s"
+
+#612
+En: "Flamethrower and %d fuel canisters picked up"
+Gr: "Flammenwerfer und %d Benzinkanister aufgenommen"
+Fr: "Lance-flammes et %d bidons de carburant ramass�s"
+
+#613
+En: "Rail Driver and 1 round picked up"
+Gr: "Railgun und 1 Patrone aufgenommen"
+Fr: "Arme �lectromagn�tique et 1 balle ramass�es"
+
+#614
+En: "Rail Driver and %d rounds picked up"
+Gr: "Railgun und %d Patronen aufgenommen"
+Fr: "Arme �lectromagn�tique et %d balles ramass�es"
+
+#615
+En: "Heavy Machine Gun and 1 7.62mm round picked up"
+Gr: "Maschinengewehr und 1 7.62mm Patrone aufgenommen"
+Fr: "Mitrailleuse lourde et 1 balle 7.62 mm ramass�es"
+
+#616
+En: "Heavy Machine Gun and %d 7.62mm rounds picked up"
+Gr: "Maschinengewehr und %d 7.62mm Patronen aufgenommen"
+Fr: "Mitrailleuse lourde et %d balles 7.62 mm ramass�es"
+
+#617
+En: "Precision Rifle and 1 round picked up"
+Gr: "Pr�zisionsgewehr und 1 Patrone aufgenommen"
+Fr: "Fusil de pr�cision et 1 balle ramass�s"
+
+#618
+En: "Precision Rifle and %d rounds picked up"
+Gr: "Pr�zisionsgewehr und %d Patronen aufgenommen"
+Fr: "Fusil de pr�cision et %d balles ramass�s"
+
+#619
+En: "Fusion Rocket Launcher and 1 shell picked up"
+Gr: "Schwere Panzerfaust und 1 Ladung aufgenommen"
+Fr: "Lance-roquettes � fusion et 1 cartouche ramass�s"
+
+#620
+En: "Fusion Rocket Launcher and %d shells picked up"
+Gr: "Schwere Panzerfaust und %d Ladungen aufgenommen"
+Fr: "Lance-roquettes � fusion et %d cartouches ramass�s"
+
+#621
+En: "Did you hear the woman's voice?"
+Gr: "Haben Sie die Frauenstimme geh�rt?"
+Fr: "Avez-vous entendu la voix de la femme?"
+
+#622
+En: "Audio Test"
+Gr: "Test der Tonausgabe"
+Fr: "Test sonore"
+
+#623
+En: "Test Sound Card"
+Gr: "Test der Soundkarte"
+Fr: "Test de la carte son"
+
+#624
+En: "Please refer to the 'README.TXT' file for more information about ADPCM installation"
+Gr: "Die Datei 'README.TXT' enth�lt weitere Hinweise zur Installation des ADPCM Audio Compression Codecs."
+Fr: "Pour de plus amples informations sur l'installation d'ADPCM, reportez-vous au fichier README.TXT."
+
+#625
+En: "Installing Microsoft ADPCM audio compression codec"
+Gr: "Microsoft ADPCM Audio Compression Codec wird installiert."
+Fr: "Installation du codec de compression audio Microsoft ADPCM"
+
+#626
+En: "Enable EAX"
+Gr: "Aktiviere EAX"
+Fr: "Activer EAX"
+
+#627
+En: "Updating the Red Faction Launcher..."
+Gr: "Aktualisiere das Startmen� von Red Faction..."
+Fr: "Mise � jour du lanceur de Red Faction en cours..."
+
+#628
+En: "Please Wait."
+Gr: "Bitte warten."
+Fr: "Veuillez patienter."
+
+#629
+En: "ERROR: This program was executed outside of the Red Faction Launcher!"
+Gr: "FEHLER: Dieses Programm wurde nicht aus dem Startmen� von Red Faction heraus ausgef�hrt!"
+Fr: "ERREUR: ce programme a �t� lanc� sans le lanceur de Red Faction!"
+
+#630
+En: "ERROR: Could not find file:  %s"
+Gr: "FEHLER: Kann Datei %s nicht finden."
+Fr: "ERREUR: fichier %s introuvable"
+
+#631
+En: "ERROR: Could not access file:  %s"
+Gr: "FEHLER: Habe keinen Zugriff auf Datei: %s"
+Fr: "ERREUR: impossible d'acc�der au fichier: %s"
+
+#632
+En: "ERROR: Could not delete file:  %s"
+Gr: "FEHLER: Kann Datei %s nicht l�schen."
+Fr: "ERREUR: impossible de supprimer le fichier: %s"
+
+#633
+En: "ERROR: Could not rename file:  %s"
+Gr: "FEHLER: Kann Datei %s nicht umbenennen."
+Fr: "ERREUR: impossible de renommer le fichier: %s"
+
+#634
+En: "ERROR: The patch application function could not be obtained from the DLL."
+Gr: "FEHLER: Die Patch-Funktion kann nicht �ber die DLL ausgef�hrt werden."
+Fr: "ERREUR: la fonction d'application du patch ne peut �tre obtenue depuis le DLL."
+
+#635
+En: "ERROR: The patch could not be completed successfully."
+Gr: "FEHLER: Das Update wurde nicht erfolgreich abgeschlossen."
+Fr: "ERREUR: impossible d'effectuer les corrections."
+
+#636
+En: "An error occured while patching the Launcher, 'RedFaction.exe'.\nThe remaining files were updated successfully, but your Launcher is still out-of-date.\nWe recommend that you manually download the latest Launcher from our website:\n\n"
+Gr: "Ein Fehler ist w�hrend des Aktualisierens des Startmen�s aufgetreten, 'RedFaction.exe'.\nDie restlichen Dateien wurden erfolgreich aktualisiert, nur das Startmen� ist veraltet.\nWir empfehlen Ihnen, das neueste Startmen� manuell von unserer Seite herunterzuladen:\n\n"
+Fr: "Une erreur est survenue pendant la correction du lanceur, 'RedFaction.exe'.\nLes autres fichiers ont bien �t� mis � jour, mais le lanceur n'est toujours pas � jour.\nNous vous conseillons de t�l�charger le tout dernier lanceur sur notre site web:\n\n"
+
+#637
+En: "\n\nDo you want to want to visit the site now?"
+Gr: "\n\nM�chten Sie die Seite jetzt besuchen?"
+Fr: "\n\nVoulez-vous consulter le site maintenant?"
+
+#638
+En: "Error Patching the Launcher"
+Gr: "Fehler beim Aktualisieren des Startmen�s"
+Fr: "Erreur de correction du lanceur"
+
+#639
+En: "Starting up the old Red Faction Launcher..."
+Gr: "Starte das alte Startmen� von Red Faction..."
+Fr: "Lancement de l'ancien lanceur de Red Faction..."
+
+#640
+En: "Starting up the new Red Faction Launcher..."
+Gr: "Starte das neue Startmen� von Red Faction..."
+Fr: "Lancement du nouveau lanceur de Red Faction..."
+
+#641
+En: "ERROR: The Launcher could not be restarted."
+Gr: "FEHLER: Das Startmen� kann nicht gestartet werden."
+Fr: "ERREUR: impossible de red�marrer le lanceur."
+
+#642
+En: "Red Faction Launcher Update Error"
+Gr: "Fehler beim Update des Startmen�s von Red Faction"
+Fr: "Erreur survenue lors de la mise � jour du lanceur de Red Faction"
+
+#643
+En: "The launcher has not been updated."
+Gr: "Das Startmen� wurde nicht aktualisiert."
+Fr: "Le lanceur n'a pas �t� mis � jour."
+
+#644
+En: "Master Server"
+Gr: "Hauptserver"
+Fr: "Serveur ma�tre"
+
+#645
+En: "Default"
+Gr: "Voreinstellung"
+Fr: "D�faut"
+
+#646
+En: "Framebuffer:"
+Gr: "Bildspeicher:"
+Fr: "M�moire image:"
+
+#647
+En: "Insert Red Faction CD #2 (ESC exits game)"
+Gr: "Bitte legen Sie die zweite CD von Red Faction ein (ESC beendet das Spiel)"
+Fr: "Ins�rez le CD N�2 de Red Faction (ECHAP pour quitter le jeu)"
+
+#648
+En: "Difficulty Level"
+Gr: "Schwierigkeitsgrad"
+Fr: "Niveau de difficult�"
+
+#649
+En: "Targeting Reticle"
+Gr: "Fadenkreuz"
+Fr: "R�ticule de vis�e"
+
+#650
+En: "Autoswitch Weapons"
+Gr: "Automatik: Waffen"
+Fr: "Echange auto armes"
+
+#651
+En: "Autoswitch Explosives"
+Gr: "Automatik: Sprengladungen"
+Fr: "Echange auto explosifs"
+
+#652
+En: "Autoswitch Priority"
+Gr: "Automatik: Priorit�t"
+Fr: "Echange auto priorit�"
+
+#653
+En: "   Move up"
+Gr: "   Aufw�rts"
+Fr: "    D�but"
+
+#654
+En: "     Move down"
+Gr: "      Abw�rts"
+Fr: "        Fin"
+
+#655
+En: "Mouse Sensitivity"
+Gr: "Mausempfindlichkeit"
+Fr: "Sensibilit� souris"
+
+#656
+En: "Mouse Y-Invert"
+Gr: "Maus Y-Achse umgekehrt"
+Fr: "Inverser Axe Y souris"
+
+#657
+En: "Detail Level"
+Gr: "Grafikaufl�sung"
+Fr: "Niveau de d�tail"
+
+#658
+En: "Shadows"
+Gr: "Schatten"
+Fr: "Ombres"
+
+#659
+En: "Decals"
+Gr: "Einschussl�cher"
+Fr: "Impacts"
+
+#660
+En: "Dynamic lighting"
+Gr: "Dynamische Beleuchtung"
+Fr: "Eclairage dynamique"
+
+#661
+En: "Detail textures"
+Gr: "Detailstufe Texturen"
+Fr: "Textures des d�tails"
+
+#662
+En: "Fogging"
+Gr: "Nebeleffekt"
+Fr: "Brouillard"
+
+#663
+En: "Anti-aliasing"
+Gr: "Kantengl�ttung"
+Fr: "Lissage des bords"
+
+#664
+En: "Texture resolution"
+Gr: "Texturaufl�sung"
+Fr: "R�solution des textures"
+
+#665
+En: "Character detail"
+Gr: "Detailstufe Charaktere"
+Fr: "D�tails personnages"
+
+#666
+En: "Filtering"
+Gr: "Filter"
+Fr: "Filtre"
+
+#667
+En: "Gamma/brightness"
+Gr: "Gamma/Helligkeit"
+Fr: "Gamma/Luminosit�"
+
+#668
+En: "Select Action"
+Gr: "Aktion ausw�hlen"
+Fr: "S�lectionner Action"
+
+#669
+En: "Press new key..."
+Gr: "Dr�cken Sie die neue Taste..."
+Fr: "Appuyez sur nouvelle touche..."
+
+#670
+En: "Trilinear"
+Gr: "Trilinear"
+Fr: "Trilin�aire"
+
+#671
+En: "Bilinear"
+Gr: "Bilinear"
+Fr: "Bilin�aire"
+
+#672
+En: "Sound Effects Volume"
+Gr: "Lautst�rke Soundeffekte"
+Fr: "Volume effets sonores"
+
+#673
+En: "Music Volume"
+Gr: "Lautst�rke Musik"
+Fr: "Volume musique"
+
+#674
+En: "Messages Volume"
+Gr: "Lautst�rke Sprache"
+Fr: "Volume messages"
+
+#675
+En: "Player"
+Gr: "Spieler"
+Fr: "Joueur"
+
+#676
+En: "Frags"
+Gr: "Absch."
+Fr: "Frags"
+
+#677
+En: "Ping"
+Gr: "Ping"
+Fr: "Ping"
+
+#678
+En: "Round %d of %d"
+Gr: "Runde %d von %d"
+Fr: "Tour %d / %d"
+
+#679
+En: "End of Round %d of %d"
+Gr: "Ende der Runde %d von %d"
+Fr: "Fin du tour %d / %d"
+
+#680
+En: "MATCH WINNER:"
+Gr: "GEWINNER DES SPIELS:"
+Fr: "VAINQUEUR DU MATCH:"
+
+#681
+En: "Caps"
+Gr: "Gefa."
+Fr: "Capt."
+
+#682
+En: "Invulnerability"
+Gr: "Unverwundbarkeit"
+Fr: "Invuln�rabilit�"
+
+#683
+En: "Invulnerability picked up"
+Gr: "Unverwundbarkeit aufgenommen"
+Fr: "Invuln�rabilit� ramass�e"
+
+#684
+En: "Damage Amp"
+Gr: "Schadensverst�rker"
+Fr: "Ampl. d�g�ts"
+
+#685
+En: "Damage Amp picked up"
+Gr: "Schadensverst�rker aufgenommen"
+Fr: "Ampl. d�g�ts ramass�"
+
+#686
+En: "Super Armor"
+Gr: "Super-Schutzanzug"
+Fr: "Super armure"
+
+#687
+En: "Super Armor picked up"
+Gr: "Super-Schutzanzug aufgenommen"
+Fr: "Super armure ramass�e"
+
+#688
+En: "Super Health"
+Gr: "Gesundheitsbonus"
+Fr: "Super sant�"
+
+#689
+En: "Super Health picked up"
+Gr: "Gesundheitsbonus aufgenommen"
+Fr: "Super sant� ramass�e"
+
+#690
+En: "Nanoshield"
+Gr: "Nano-Schild"
+Fr: "Nano-bouclier"
+
+#691
+En: "Nanoshield picked up"
+Gr: "Nano-Schild aufgenommen"
+Fr: "Nano-bouclier ramass�"
+
+#692
+En: " was killed by her own hand"
+Gr: " hat sich selbst ausgeschaltet"
+Fr: " s'est elle-m�me tu�e"
+
+#693
+En: " was killed by his own hand"
+Gr: " hat sich selbst ausgeschaltet"
+Fr: " s'est lui-m�me tu�"
+
+#694
+En: " was killed by "
+Gr: " wurde ausgeschaltet von "
+Fr: " a �t� tu� par "
+
+#695
+En: " was killed mysteriously"
+Gr: " wurde �berraschend ausgeschaltet"
+Fr: " a �t� myst�rieusement tu�"
+
+#696
+En: "To all: "
+Gr: "An alle: "
+Fr: "A tous: "
+
+#697
+En: "Server Name"
+Gr: "Servername"
+Fr: "Nom du serveur"
+
+#698
+En: "Game Type"
+Gr: "Spieltyp"
+Fr: "Type de partie"
+
+#699
+En: "Max Players"
+Gr: "Teilnehmergrenze"
+Fr: "Joueurs max."
+
+#700
+En: "Map List (click a map to add or remove it)"
+Gr: "Kartenliste (Klicken = Entf. & Einf�gen)"
+Fr: "Liste des cartes"
+
+#701
+En: "Blue flag stolen by "
+Gr: "Einnahme der blauen Flagge durch "
+Fr: "Drapeau bleu vol� par "
+
+#702
+En: "Red flag stolen by "
+Gr: "Einnahme der roten Flagge durch "
+Fr: "Drapeau rouge vol� par "
+
+#703
+En: "Blue flag returned"
+Gr: "Blaue Flagge zur�ckgebracht"
+Fr: "Drapeau bleu rapport�"
+
+#704
+En: "Red flag returned"
+Gr: "Rote Flagge zur�ckgebracht"
+Fr: "Drapeau rouge rapport�"
+
+#705
+En: " switched to the Blue team"
+Gr: " wechselte zum blauen Team"
+Fr: " est pass� dans l'�quipe bleue"
+
+#706
+En: " switched to the Red team"
+Gr: " wechselte zum roten Team"
+Fr: " est pass� dans l'�quipe rouge"
+
+#707
+En: "Error saving game, make sure savegame directory exists in Red Faction installation folder"
+Gr: "Fehler beim Speichern des Spielstands. Im Installationspfad von Red Faction muss ein SAVEGAME-Verzeichnis existieren."
+Fr: "Erreur lors de la sauvegarde de la partie, v�rifiez que le r�pertoire de sauvegardes existe bien dans le dossier d'installation de Red Faction"
+
+#708
+En: " has joined"
+Gr: " hat sich angeschlossen"
+Fr: " a rejoint"
+
+#709
+En: " was kicked from the game"
+Gr: " wurde vom Spiel ausgeschlossen"
+Fr: " a �t� expuls� de la partie"
+
+#710
+En: " left the game"
+Gr: " hat das Spiel verlassen"
+Fr: " a quitt� la partie"
+
+#711
+En: " left the game for an unknown reason"
+Gr: " hat das Spiel aus unbekanntem Grund verlassen"
+Fr: " a quitt� la partie pour une raison inconnue"
+
+#712
+En: " kicked because of broken reliable connection"
+Gr: " hat das Spiel in Folge instabiler Verbindung verlassen"
+Fr: " renvoy� pour cause d'interruption de connexion"
+
+#713
+En: " kicked because reliable connection could not be formed"
+Gr: " hat das Spiel verlassen, da keine stabile Verbindung zustande kam"
+Fr: " renvoy� pour cause de connexion fiable impossible"
+
+#714
+En: " used invulnerability cheat"
+Gr: " benutzte den Cheat Unverwundbarkeit"
+Fr: " a utilis� cheat invuln�rabilit�"
+
+#715
+En: " was DENIED invulnerability cheat"
+Gr: " wurde der Cheat Unverwundbarkeit verweigert"
+Fr: " s'est vu REFUSER le cheat invuln�rabilit�"
+
+#716
+En: " feels better armed"
+Gr: " f�hlt sich besser bewaffnet"
+Fr: " se sent mieux arm�"
+
+#717
+En: " was DENIED all weapons/ammo"
+Gr: " wurden Waffen und Munition verweigert"
+Fr: " s'est vu REFUSER toutes les armes/munitions"
+
+#718
+En: " toggled flying/walking"
+Gr: " verwendet den Cheat Fliegen/Laufen"
+Fr: " a activ� voler/marcher"
+
+#719
+En: " was DENIED flying/walking cheat"
+Gr: " wurde der Cheat Fliegen/Laufen verweigert"
+Fr: " s'est vu REFUSER le cheat voler/marcher"
+
+#720
+En: "Score"
+Gr: "Punkte"
+Fr: "Score"
+
+#721
+En: "Fall Damage"
+Gr: "Schaden durch Aufprall"
+Fr: "D�g�ts distance"
+
+#722
+En: "Team Damage"
+Gr: "Schaden durch Team-Mitglieder"
+Fr: "D�g�ts �quipe"
+
+// The next four strings must be no longer than the English abbreviation "TeamDM"
+// Deathmatch
+#723
+En: "DM"
+Gr: "DM"
+Fr: "M�M"
+
+// Capture the Flag
+#724
+En: "CTF"
+Gr: "CTF"
+Fr: "VLD"
+
+// Team Deathmatch
+#725
+En: "TeamDM"
+Gr: "TeamDM"
+Fr: "M�M �q."
+
+// MOD
+#726
+En: "Mod"
+Gr: "MOD"
+Fr: "Mod."
+
+#727
+En: "Player Config"
+Gr: "Spielerkonfiguration"
+Fr: "Config joueur"
+
+#728
+En: "JOIN GAME"
+Gr: "SPIEL\nBEITRETEN"
+Fr: "REJOINDRE\nPARTIE"
+
+#729
+En: "CREATE GAME"
+Gr: "SPIEL\nERSTELLEN"
+Fr: "CREER PARTIE"
+
+#730
+En: "Type"
+Gr: "Spieltyp"
+Fr: "Type"
+
+#731
+En: "Filter"
+Gr: "Filter"
+Fr: "Filtre"
+
+#732
+En: "Join"
+Gr: "Beitreten"
+Fr: "Rejoindre"
+
+#733
+En: "Get Servers"
+Gr: "Server auflisten"
+Fr: "Lister serveurs"
+
+#734
+En: "Add Server"
+Gr: "Server hinzufg."
+Fr: "Ajouter serveur"
+
+// Short for favorite
+#735
+En: " FAV"
+Gr: " BEV"
+Fr: " FAV"
+
+// As in IP address
+#736
+En: "Address"
+Gr: "Adresse"
+Fr: "Adresse"
+
+#737
+En: "  PING"
+Gr: "  PING"
+Fr: "  PING"
+
+#738
+En: "Players/max"
+Gr: "Spieler/max"
+Fr: "Joueurs/max"
+
+#739
+En: "Refresh Selected"
+Gr: "Akt. Auswahl"
+Fr: "Rafra�. s�lection"
+
+#740
+En: "Refresh All"
+Gr: "Akt. Alle"
+Fr: "Rafra�chir tout"
+
+#741
+En: "Start Server"
+Gr: "Server starten"
+Fr: "Lancer serveur"
+
+
+// Names of new multiplayer maps
+#742
+En: "Blasted Canyon"
+Gr: "Verdammter Canyon"
+Fr: "Canyon d�sol�"
+
+#743
+En: "Warlords"
+Gr: "Kriegsherren"
+Fr: "Seigneurs de guerre"
+
+#744
+En: "Score"
+Gr: "Punkte"
+Fr: "Score"
+
+#745
+En: "Nemesis"
+Gr: "Gerechtigkeit"
+Fr: "N�mesis"
+
+#746
+En: "Checkmate"
+Gr: "Schachmatt"
+Fr: "Echec et mat"
+
+#747
+En: "The Art of War"
+Gr: "Kunst der Kriegsf�hrung"
+Fr: "L'art de la guerre"
+
+#748
+En: "En Masse"
+Gr: "Jede Menge"
+Fr: "En masse"
+
+#749
+En: "The Lobby"
+Gr: "Der Vorraum"
+Fr: "L'antichambre"
+
+#750
+En: "Installation XJ15"
+Gr: "Industrieanlage XJ15"
+Fr: "Installation XJ15"
+
+#751
+En: "Waste Treatment Plant"
+Gr: "Aufbereitungsanlage"
+Fr: "Usine de retraitement des d�chets"
+
+#752
+En: "Badlands"
+Gr: "Badlands"
+Fr: "Terres hostiles"
+
+#753
+En: "Hangar 18"
+Gr: "Hangar 18"
+Fr: "Hangar 18"
+
+#754
+En: "High and Dry"
+Gr: "Im Trockenen"
+Fr: "Altitude et s�cheresse"
+
+#755
+En: "Mine Warfare"
+Gr: "Minenkrieg"
+Fr: "Guerre des mines"
+
+#756
+En: "Office Space"
+Gr: "Verwaltungsbereich"
+Fr: "Bureaux"
+
+#757
+En: "Any Way"
+Gr: "Alle Richtungen"
+Fr: "Toutes directions"
+
+#758
+En: "Watch Your Step"
+Gr: "Achtung Stufe!"
+Fr: "Attention"
+
+#759
+En: "Killbox"
+Gr: "T�dlicher Raum"
+Fr: "Danger"
+
+#760
+En: "Mazeway"
+Gr: "Irrgarten"
+Fr: "Labyrinthe"
+
+#761
+En: "Coffee Break"
+Gr: "Kaffeepause"
+Fr: "Pause caf�"
+
+// Dome is also American slang for the word "head".  In other words, one (bullet) to the head.
+#762
+En: "One to the Dome"
+Gr: "F�r das K�pfchen"
+Fr: "Une balle dans la t�te"
+
+#763
+En: "S.R.O."
+Gr: "S.R.O."
+Fr: "Debout seulement"
+
+// Grey matter is another term for the word "brains"
+#764
+En: "Grey Matter"
+Gr: "Graue Zellen"
+Fr: "Mati�re grise"
+
+// The first half of the word zigzag, and a reference to an infamous internet joke about
+// a badly translated game (from Japanese into English).
+#765
+En: "Zig"
+Gr: "Zick"
+Fr: "Zig"
+
+#766
+En: "Hermis"
+Gr: "Hermis"
+Fr: "Hermis"
+
+#767
+En: "Relentless"
+Gr: "Erbarmungslos"
+Fr: "Implacable"
+
+// End of new multiplayer level names
+
+#768
+En: "No maps selected.  Please choose maps on the Options panel."
+Gr: "Keine Karte gew�hlt. Bitte im Optionsmen� Karten ausw�hlen."
+Fr: "Aucune carte s�lectionn�e. Choisissez des cartes dans le panneau Options."
+
+#769
+En: "ADV OPTIONS"
+Gr: "ERW. OPTIONEN"
+Fr: "OPTIONS\nAVANCEES"
+
+#770
+En: "START"
+Gr: "START"
+Fr: "LANCER"
+
+#771
+En: "DEDICATED"
+Gr: "RESERVIERT"
+Fr: "DEDIE"
+
+#772
+En: "BACK"
+Gr: "ZUR�CK"
+Fr: "RETOUR"
+
+#773
+En: "Weapons Stay"
+Gr: "Waffen verbleiben am Ort"
+Fr: "Armes au sol"
+
+#774
+En: "Force Respawn"
+Gr: "Erneute Teilnahme erzwingen"
+Fr: "Forcer renaissance"
+
+#775
+En: "Balance Teams"
+Gr: "Teamst�rke angleichen"
+Fr: "Equipes �gales"
+
+#776
+En: "Max time"
+Gr: "Zeitlimit"
+Fr: "D�lai max."
+
+#777
+En: "Max kills"
+Gr: "Abschusslimit"
+Fr: "Max. de tu�s"
+
+#778
+En: "Max captures"
+Gr: "Gefangenenlimit"
+Fr: "Captures max."
+
+
+// Weapon categories.  Our weapons are classified into four categories.
+// They are used as part of the in-game HUD, when a player is switching weapons.
+// The types are "close combat", "heavy", "semi-automatic", and "explosive"
+#779
+En: "Close Combat"
+Gr: "Nahkampf"
+Fr: "Combat rapproch�"
+
+#780
+En: "Semi-Auto"
+Gr: "Halbautomatik"
+Fr: "Semi-auto"
+
+#781
+En: "Heavy"
+Gr: "Schwer"
+Fr: "Lourde"
+
+#782
+En: "Explosive"
+Gr: "Sprengladung"
+Fr: "Explosive"
+
+#783
+En: "To team: "
+Gr: "An Team: "
+Fr: "A l'�quipe: "
+
+#784
+En: "GAME"
+Gr: "SPIEL"
+Fr: "JEU"
+
+#785
+En: "VIDEO"
+Gr: "VIDEO"
+Fr: "VIDEO"
+
+#786
+En: "AUDIO"
+Gr: "AUDIO"
+Fr: "AUDIO"
+
+#787
+En: "CONTROLS"
+Gr: "STEUERUNG"
+Fr: "COMMANDES"
+
+#788
+En: "Back"
+Gr: "Zur�ck"
+Fr: "Retour"
+
+#789
+En: "Servers"
+Gr: "Server"
+Fr: "Serveurs"
+
+#790
+En: "INTERNET"
+Gr: "INTERNET"
+Fr: "INTERNET"
+
+#791
+En: "Quit Brutal Red Faction"
+Gr: "Red Faction beenden"
+Fr: "Quitter Red Faction"
+
+#792
+En: "Are you sure you want to quit Brutal Red Faction?"
+Gr: "M�chten Sie Red Faction wirklich beenden?"
+Fr: "Voulez-vous vraiment quitter Red Faction?"
+
+#793
+En: "NEW"
+Gr: "NEU"
+Fr: "NOUVELLE"
+
+#794
+En: "LOAD"
+Gr: "LADEN"
+Fr: "CHARGER"
+
+#795
+En: "Server error"
+Gr: "Serverfehler"
+Fr: "Erreur de serveur"
+
+#796
+En: "Mouse 1"
+Gr: "L. Maustaste"
+Fr: "Souris 1"
+
+#797
+En: "Mouse 2"
+Gr: "R. Maustaste"
+Fr: "Souris 2"
+
+#798
+En: "Mouse 3"
+Gr: "M. Maustaste"
+Fr: "Souris 3"
+
+#799
+En: "Mwheel Up"
+Gr: "M-Rad hoch"
+Fr: "Roul. haut"
+
+#800
+En: "Mwheel Dn"
+Gr: "M-Rad runter"
+Fr: "Roul. bas"
+
+#801
+En: "Chat"
+Gr: "Chat"
+Fr: "Dialogue"
+
+#802
+En: "Team Chat"
+Gr: "Team-Chat"
+Fr: "Dialogue �quipe"
+
+#803
+En: "Run Forward"
+Gr: "Vorw�rts laufen"
+Fr: "Courir vers l'avant"
+
+#804
+En: "Run Backwards"
+Gr: "R�ckw�rts laufen"
+Fr: "Courir vers l'arri�re"
+
+#805
+En: "Control Config"
+Gr: "Tastenbelegung"
+Fr: "Configuration de commandes"
+
+#806
+En: "Reset all controls to factory defaults?"
+Gr: "Standardbelegung wiederherstellen?"
+Fr: "R�tablir les param�tres par d�faut?"
+
+#807
+En: "Fire Primary"
+Gr: "Prim. Waffenfunktion"
+Fr: "Tir principal"
+
+#808
+En: "Alternate Fire"
+Gr: "Sek. Waffenfunktion"
+Fr: "Tir secondaire"
+
+#809
+En: "Holster Weapon"
+Gr: "Waffe wegstecken"
+Fr: "D�gainer arme"
+
+#810
+En: "Previous Weapon"
+Gr: "Vorherige Waffe"
+Fr: "Arme pr�c�dente"
+
+#811
+En: "Slide Left"
+Gr: "Nach links gehen"
+Fr: "Curseur vers gauche"
+
+#812
+En: "Slide Right"
+Gr: "Nach rechts gehen"
+Fr: "Curseur vers droite"
+
+#813
+En: "Slide Up"
+Gr: "Nach oben schweben"
+Fr: "Curseur vers le haut"
+
+#814
+En: "Slide Down"
+Gr: "Nach unten schweben"
+Fr: "Curseur vers le bas"
+
+#815
+En: "Look Down"
+Gr: "Herunter schauen"
+Fr: "Regarder en bas"
+
+#816
+En: "Look Up"
+Gr: "Hoch schauen"
+Fr: "Regarder v. le haut"
+
+#817
+En: "Turn Left"
+Gr: "Nach links drehen"
+Fr: "Tourner � gauche"
+
+#818
+En: "Turn Right"
+Gr: "Nach rechts drehen"
+Fr: "Tourner � droite"
+
+#819
+En: "Multiplayer Stats"
+Gr: "Mehrspieler-Statistik"
+Fr: "Stats multijoueur"
+
+#820
+En: "Quick Save"
+Gr: "Schnellspeichern"
+Fr: "Sauvegarde rapide"
+
+#821
+En: "Quick Load"
+Gr: "Schnellladen"
+Fr: "Chargement rapide"
+
+#822
+En: "<none>"
+Gr: "<keine>"
+Fr: "<aucune>"
+
+#823
+En: "Main Menu"
+Gr: "Hauptmen�"
+Fr: "Menu principal"
+
+#824
+En: "Game Over"
+Gr: "Game Over"
+Fr: "Game Over"
+
+#825
+En: "You died, and the hopes of the Red Faction died with you."
+Gr: "Sie sind gescheitert und mit Ihnen der Aufstand der Red Faction."
+Fr: "Vous �tes mort. Les espoirs de la Red Faction sont morts avec vous."
+
+#826
+En: "Restart"
+Gr: "Neustart"
+Fr: "Rejouer"
+
+#827
+En: "SAVE"
+Gr: "SPEICHERN"
+Fr: "SAUVEGARDER"
+
+#828
+En: "RETURN"
+Gr: "ZUR�CK"
+Fr: "RETOUR"
+
+#829
+En: "LOADING..."
+Gr: "LADEN..."
+Fr: "CHARGER..."
+
+#830
+En: "We recommend new players begin with the training level."
+Gr: "Neuen Spielern empfehlen wir, den Trainingslevel zu absolvieren."
+Fr: "Nous recommandons de commencer par le niveau d'entra�nement."
+
+#831
+En: "Couldn't load level: %s"
+Gr: "Kann diesen Level nicht laden: %s"
+Fr: "Impossible de charger niveau: %s"
+
+#832
+En: "Error"
+Gr: "Fehler"
+Fr: "Erreur"
+
+#833
+En: "[Team] "
+Gr: "[Team] "
+Fr: "[Equipe] "
+
+#834
+En: "Unnamed Server"
+Gr: "Server unbenannt"
+Fr: "Serveur anonyme"
+
+#835
+En: "Player name"
+Gr: "Spielername"
+Fr: "Nom du joueur"
+
+#836
+En: "Character Model"
+Gr: "Spielfigur"
+Fr: "Personnage"
+
+#837
+En: "Enter Password"
+Gr: "Passwort eingeben"
+Fr: "Saisir mot de passe"
+
+#838
+En: "THQMultiplay"
+Gr: "THQMultiplay"
+Fr: "THQMultiplay"
+
+#839
+En: "LAN"
+Gr: "LAN"
+Fr: "LAN"
+
+#840
+En: "       MAP NAME"
+Gr: "      KARTENNAME"
+Fr: "      NOM CARTE"
+
+#841
+En: "  PLAYERS"
+Gr: "  SPIELER"
+Fr: "  JOUEURS"
+
+#842
+En: "Connect"
+Gr: "Verbinde"
+Fr: "Se conn."
+
+#843
+En: "All"
+Gr: "Alle"
+Fr: "Tout"
+
+#844
+En: "Show 1st Person Weapon"
+Gr: "Waffe anzeigen"
+Fr: "Voir arme 1�re personne"
+
+#845
+En: "Multiplayer"
+Gr: "Mehrspieler"
+Fr: "Multijoueur"
+
+#846
+En: "PLAYER"
+Gr: "SPIELER"
+Fr: "JOUEUR"
+
+#847
+En: "Skip Training"
+Gr: "Training auslass."
+Fr: "Passer l'entra�n."
+
+#848
+En: "Go to Training"
+Gr: "Zum Training"
+Fr: "Suivre entra�n."
+
+#849
+En: "          SERVER NAME"
+Gr: "           SERVERNAME"
+Fr: "         NOM DU SERVEUR"
+
+#850
+En: "     GAME TYPE"
+Gr: "      SPIELTYP"
+Fr: "   TYPE DE PARTIE"
+
+#851
+En: "Create game"
+Gr: "Spiel erstellen"
+Fr: "Cr�er partie"
+
+#852
+En: "No name specified in the -dedicated command line,\nso using the first one in dedicated_server.txt\n"
+Gr: "In der Befehlszeile wurde kein Name gefunden.\nDaher wird der erste Eintrag in dedicated_server.txt verwendet.\n"
+Fr: "Aucun nom sp�cifi� dans la ligne de commande -d�di�e,\nutiliser le premier dans le dedicated_server.txt\n"
+
+#853
+En: "Command line parameter -dedicated was not found,\nso using the first entry in dedicated_server.txt\n"
+Gr: "Die Parameter in der Befehlszeile wurden nicht gefunden.\nDaher wird der erste Eintrag in dedicated_server.txt verwendet.\n"
+Fr: "Param�tre -d�di� de ligne de commande introuvable,\nutiliser le premier dans le dedicated_server.txt\n"
+
+#854
+En: "Unable to open dedicated_server.txt\n"
+Gr: "Kann dedicated_server.txt nicht �ffnen.\n"
+Fr: "Impossible d'ouvrir le dedicated_server.txt\n"
+
+#855
+En: "================  Dedicated Server Settings ===============\n"
+Gr: "==============  Dedicated Server-Einstellungen ============\n"
+Fr: "================  Param�tres serveur d�di� ================\n"
+
+#856
+En: "Using game mode '%s' in dedicated_server.txt\n"
+Gr: "Benutze Spielmodus '%s' in dedicated_server.txt\n"
+Fr: "Utilise mode de jeu '%s' dans le dedicated_server.txt\n"
+
+#857
+En: "Unknown game type '%s' in dedicated_server.txt\n"
+Gr: "Unbekannter Spieltyp '%s' in dedicated_server.txt\n"
+Fr: "Type de partie inconnu '%s' dans le dedicated_server.txt\n"
+
+#858
+En: "Couldn't find game mode '%s' in dedicated_server.txt\n"
+Gr: "Kann Spielmodus '%s' in dedicated_server.txt nicht finden\n"
+Fr: "Impossible de trouver le mode de jeu '%s' dans le dedicated_server.txt\n"
+
+#859
+En: "Keep waiting"
+Gr: "Warte"
+Fr: "Patientez"
+
+#860
+En: "Quit game"
+Gr: "Spiel beenden"
+Fr: "Quitter jeu"
+
+#861
+En: "Timeout Warning"
+Gr: "Timeout Warnung"
+Fr: "Attention timeout"
+
+#862
+En: "The server has stopped responding."
+Gr: "Der Server sendet keine Daten mehr."
+Fr: "Le serveur ne r�pond plus."
+
+#863
+En: "You are on team "
+Gr: "Sie sind bei Team "
+Fr: "Votre �quipe est "
+
+#864
+En: "RED"
+Gr: "ROT"
+Fr: "ROUGE"
+
+#865
+En: "BLUE"
+Gr: "BLAU"
+Fr: "BLEU"
+
+#866
+En: "Join accepted."
+Gr: "Beitritt akzeptiert."
+Fr: "Entr�e accept�e."
+
+#867
+En: "The game you tried to join is already full."
+Gr: "Das Spiel, dem Sie beitreten wollten, ist bereits voll."
+Fr: "La partie que vous souhaitez rejoindre est compl�te."
+
+#868
+En: "The game you tried to join is not accepting additional players."
+Gr: "Das Spiel, dem Sie beitreten wollten, akzeptiert keine weiteren Spieler."
+Fr: "La partie que vous souhaitez rejoindre n'accepte pas de nouveaux joueurs."
+
+#869
+En: "The password you supplied doesn't match the game password."
+Gr: "Das Passwort, das Sie eingegeben haben, entspricht nicht dem des Spiels."
+Fr: "Le mot de passe fourni ne correspond pas � celui de la partie."
+
+#870
+En: "A player is already in the game with the same network address as you."
+Gr: "Ein Spieler mit derselben Netzwerkadresse wie Ihrer nimmt bereits am Spiel teil."
+Fr: "Un joueur participe d�j� � la partie avec la m�me adresse r�seau que vous."
+
+#871
+En: "The game is between levels, try joining again in a minute or so."
+Gr: "Das Spiel befindet sich gerade zwischen zwei Levels. Versuchen Sie es in einer Minute noch einmal."
+Fr: "La partie est en cours, essayez de la rejoindre plus tard."
+
+#872
+En: "Something's wrong with the server and it cannot add you."
+Gr: "Der Server kann Sie dem Spiel nicht hinzuf�gen."
+Fr: "Probl�me de serveur: vous ne pouvez pas rejoindre la partie."
+
+#873
+En: "Your data doesn't match the data the game is using."
+Gr: "Ihre Daten entsprechen nicht den Spieldaten, die benutzt werden."
+Fr: "Vos donn�es ne correspondent pas aux donn�es utilis�es par le jeu."
+
+#874
+En: "Your multiplayer version isn't compatible with the server's version."
+Gr: "Ihre Mehrspielerversion ist nicht mit der des Servers kompatibel."
+Fr: "Votre version multijoueur n'est pas compatible avec la version du serveur."
+
+#875
+En: "Reason unknown"
+Gr: "Grund unbekannt"
+Fr: "Raison inconnue"
+
+#876
+En: "Error Joining Game"
+Gr: "Beitreten des Spiels fehlgeschlagen."
+Fr: "Erreur lors de votre entr�e"
+
+#877
+En: "Couldn't form a reliable connection to server"
+Gr: "Kann keine stabile Verbindung zum Server herstellen."
+Fr: "Impossible d'�tablir une bonne connexion avec le serveur"
+
+#878
+En: "Game Ended"
+Gr: "Das Spiel wurde beendet."
+Fr: "Partie termin�e"
+
+#879
+En: "The server ended the game."
+Gr: "Der Server hat das Spiel beendet."
+Fr: "Le serveur a mis fin � la partie."
+
+#880
+En: "For unknown reasons"
+Gr: "Aus nicht bekannten Gr�nden hat"
+Fr: "Pour des raisons inconnues"
+
+#881
+En: "You were kicked from the game by the server, or due to a bad connection."
+Gr: "Sie wurden aus dem Spiel geworfen. Oder Ihre Verbindung ist nicht stabil."
+Fr: "Vous avez �t� chass� de la partie par le serveur ou en raison d'une mauvaise connexion."
+
+#882
+En: "Because your data is incompatible."
+Gr: "Da Ihre Daten nicht kompatibel sind."
+Fr: "Pare que vos donn�es ne sont pas compatibles."
+
+#883
+En: " left the game, data incompatible"
+Gr: " das Spiel verlassen, Daten nicht kompatibel."
+Fr: " a quitt� la partie, donn�es incompatibles"
+
+#884
+En: "Exiting Game"
+Gr: "Spiel verlassen"
+Fr: "Quitter partie"
+
+#885
+En: "Quit current game?"
+Gr: "Aktuelles Spiel verlassen?"
+Fr: "Quitter partie?"
+
+// Used for in-game help.  Explains how to use a certain command.
+#886
+En: "Usage: "
+Gr: "Verwendung: "
+Fr: "Utilisation: "
+
+// The rate (or speed) of the internet connection
+#887
+En: "Current rate: %d"
+Gr: "Aktuelle Rate: %d"
+Fr: "Vitesse actuelle: %d"
+
+#888
+En: " couldn't join between the levels"
+Gr: " kann nicht zwischen den Leveln beitreten."
+Fr: " n'a pu rejoindre la partie entre les niveaux"
+
+#890
+En: "Timed out waiting for game state."
+Gr: "Beim Warten auf den Spielstatus wurde die Verbindung getrennt."
+Fr: "Temps �coul�. En attente de l'�tat de la partie."
+
+#891
+En: "<incompatible version>"
+Gr: "<Version inkompatibel>"
+Fr: "<version incompatible>"
+
+#892
+En: "Use the mouse or keyboard arrow keys to enter the defuse code."
+Gr: "Benutzen Sie die Maus oder die Tastatur, um den Bombencode einzugeben."
+Fr: "Utilisez la souris ou les touches fl�ch�es pour acc�der au code de d�samor�age."
+
+#893
+En: "Continue Anyway"
+Gr: "Trotzdem fortsetzen"
+Fr: "Continuer malgr� tout"
+
+#894
+En: "Screen-shots will be written in %s format\n"
+Gr: "Screenshots werden im %s-Format gespeichert.\n"
+Fr: "Format des captures d'�cran: %s \n"
+
+#895
+En: "Add All"
+Gr: "Alle hinzuf�gen"
+Fr: "Ajouter tout"
+
+#896
+En: "Remove All"
+Gr: "Alle entfernen"
+Fr: "Supprimer tout"
+
+#897
+En: "Couldn't reach THQ Multiplay.net, server list may not be up to date."
+Gr: "Konnte Verbindung zu THQ Multiplay.net nicht herstellen. Wahrscheinlich ist die Serverliste nicht aktuell."
+Fr: "Connexion � THQ Multiplay.net impossible. Liste des serveurs non actualis�e."
+
+#898
+En: "Enter the IP address as XXX.XXX.XXX.XXX:port."
+Gr: "IP eingeben: XXX.XXX.XXX.XXX:Port."
+Fr: "Entrez IP: XXX.XXX.XXX.XXX:port."
+
+#899
+En: "Querying RF Game Tracker..."
+Gr: "Anfrage beim RF-Spielagenten..."
+Fr: "Interrogation du Syst�me de suivi de RF..."
+
+#900
+En: "Pinging servers... (%d of %d)"
+Gr: "Pinging Server... (%d von %d)"
+Fr: "Ping serveurs en cours... (%d de %d)"
+
+// Indicates that you are joining a game
+#901
+En: "Joining %s..."
+Gr: "Verbinde mit %s..."
+Fr: "Connexion � %s en cours..."
+
+#902
+En: "Server List"
+Gr: "Serverliste"
+Fr: "Liste des serveurs"
+
+#903
+En: "Click the 'Get Servers' button to get a fresh list of available servers.  Click 'Refresh All' to refresh the info in the current list."
+Gr: "Klicken Sie auf 'Server auflisten', um eine aktualisierte Liste der verf�gbaren Server angezeigt zu bekommen. Klicken Sie auf 'Akt. Alle', um die Infos der aktuellen Liste aufzufrischen."
+Fr: "Cliquez sur le bouton 'Lister serveurs' pour afficher la liste actuelle des serveurs disponibles. Cliquez sur 'Rafra�chir tout' pour rafra�chir les infos de la liste actuelle."
+
+#904
+En: "Network Error"
+Gr: "Netzwerkfehler"
+Fr: "Erreur r�seau"
+
+#905
+En: "Game Tracker request timed out before completion"
+Gr: "Anfrage des Spielagenten wurde abgebrochen."
+Fr: "Connexion au Syst�me de suivi impossible, v�rifiez votre connexion Internet."
+
+#906
+En: "Could not connect to Game Tracker, check your internet connection."
+Gr: "Konnte keine Verbindung zum Spielagenten herstellen. �berpr�fen Sie Ihre Internetverbindung."
+Fr: "Connexion au Syst�me de suivi impossible, v�rifiez votre connexion Internet."
+
+#907
+En: "Couldn't reach THQ Multiplay.net, running in LAN-only mode."
+Gr: "Konnte Verbindung zu THQ Multiplay.net nicht herstellen, da im LAN-Modus."
+Fr: "Connexion � THQ Multiplay.net impossible. Ne fonctionne qu'en mode LAN."
+
+// Close as in "Close a window"
+#908
+En: "Close"
+Gr: "Schlie�en"
+Fr: "Fermer"
+
+#909
+En: "%s was granted rcon"
+Gr: "%s wurde Rcon erlaubt"
+Fr: "Rcon accord� � %s"
+
+#910
+En: "Level %s in dedicated_server.txt doesn't match multi game type.\n"
+Gr: "Level %s in dedicated_server.txt passt nicht zum Spieltyp.\n"
+Fr: "Le niveau %s de dedicated_server.txt n'est pas conforme au type de partie multijoueur.\n"
+
+#911
+En: "Setting update rate to %d bytes/sec"
+Gr: "Update-Rate liegt bei %d Bytes/Sek."
+Fr: "D�finition de la vitesse de mise � jour sur %d octets/sec"
+
+#912
+En: "Unrecognized rate setting"
+Gr: "Update-Rate unbekannt"
+Fr: "Param�tre de vitesse inconnu"
+
+#913
+En: "Setting custom update rate (%d bytes/sec)"
+Gr: "Benutzer Update-Rate (%d Bytes/sec)"
+Fr: "D�finition de la vitesse de mise � jour personnalis�e (%d octets/sec)"
+
+#914
+En: "Available functions:\n"
+Gr: "Verf�gbare Funktionen:\n"
+Fr: "Fonctions disponibles:\n"
+
+#915
+En: "Invalid keyword '%s'\n"
+Gr: "Ung�ltiges Passwort '%s'\n"
+Fr: "Mot de passe '%s' incorrect\n"
+
+#916
+En: "Unknown command '%s'\n"
+Gr: "Unbekannter Befehl '%s'\n"
+Fr: "Commande '%s' inconnue\n"
+
+#917
+En: "[in scroll mode - press END to leave scroll mode]"
+Gr: "[Scroll-Modus aktiv - Dr�cken Sie ENDE, um den Scroll-Modus zu deaktivieren]"
+Fr: "[mode de d�filement activ� - appuyez sur FIN pour quitter ce mode]"
+
+#918
+En: "Multiplayer cheats have been enabled."
+Gr: "Mehrspieler-Cheats wurden aktiviert."
+Fr: "Cheats multijoueur activ�s."
+
+#919
+En: "Multiplayer cheats have been disabled."
+Gr: "Mehrspieler-Cheats wurden deaktiviert."
+Fr: "Cheats multijoueur d�sactiv�s."
+
+#920
+En: "Level name"
+Gr: "Levelname"
+Fr: "Nom du niveau"
+
+#921
+En: "Rcon password must be %d characters or less"
+Gr: "Rcon-Passwort darf nicht aus mehr als %d Buchstaben bestehen."
+Fr: "Le mot de passe Rcon ne doit pas d�passer %d caract�res"
+
+#922
+En: "Level time"
+Gr: "Levelzeit"
+Fr: "Temps niveau"
+
+#923
+En: "days"
+Gr: "Tage"
+Fr: "jours"
+
+#924
+En: "\nClients (ping) ----------\n"
+Gr: "\nClients (ping) ----------\n"
+Fr: "\nClients (ping) ----------\n"
+
+#925
+En: "Error: Not enough parameters.\n"
+Gr: "Fehler: Nicht gen�gend Parameter.\n"
+Fr: "Erreur: param�tres insuffisants.\n"
+
+#926
+En: "Error: '%s' is an invalid parameter\n"
+Gr: "Fehler: '%s' ist kein g�ltiger Parameter.\n"
+Fr: "Erreur: '%s' est un param�tre incorrect\n"
+
+#927
+En: "No Internet Connection Detected"
+Gr: "Keine Internetverbindung gefunden."
+Fr: "Aucune connexion Internet d�tect�e"
+
+#928
+En: "You should exit Red Faction and connect to the Internet."
+Gr: "Sie sollten Red Faction beenden und eine Internetverbindung herstellen."
+Fr: "Vous devez quitter Red Faction et vous connecter � Internet."
+
+#929
+En: "Possible Proxy?  If not, exit RF & connect to the Internet."
+Gr: "Proxy? Wenn nicht, beenden Sie RF & stellen Sie eine Internetverbindung her."
+Fr: "Proxy possible? Sinon, quittez RF et connectez-vous � Internet."
+
+#930
+En: " Name"
+Gr: " Name"
+Fr: " Nom"
+
+#931
+En: " Date/time"
+Gr: " Datum/Zeit"
+Fr: " Date/heure"
+
+#932
+En: " Game\n  time"
+Gr: " Spiel-\n  zeit"
+Fr: " Dur�e\n  jeu"
+
+#933
+En: "Load"
+Gr: "Laden"
+Fr: "Charger"
+
+#934
+En: "Save Game"
+Gr: "Spielstand"
+Fr: "Sauvegarder partie"
+
+#935
+En: "Game saved."
+Gr: "Spiel gespeichert."
+Fr: "Partie sauvegard�e."
+
+#936
+En: "Save"
+Gr: "Speichern"
+Fr: "Sauvegarder"
+
+#937
+En: "Your version of DirectX is less than 8.0.  It is required that you install DirectX 8.0 on your system."
+Gr: "Ihre Version von DirectX ist �lter als Version 8.0. Es ist erforderlich, dass Sie DirectX 8.0 auf Ihrem System installieren."
+Fr: "Votre version de DirectX est inf�rieure � la version 8.0. Vous devez installer DirectX 8.0 sur votre syst�me."
+
+#938
+En: "You must install DirectX 8.0 or higher to run Red Faction."
+Gr: "Um Red Faction spielen zu k�nnen, m�ssen Sie DirectX 8.0 oder h�her installieren."
+Fr: "Vous devez installer DirectX 8.0 ou version sup�rieure pour lancer Red Faction."
+
+#939
+En: "Enable Vsync (Eliminates tearing)"
+Gr: "Vsync aktivieren (Verhindert Tearing)"
+Fr: "Autoriser Vsync (am�lioration de l'affichage graphique)"
+
+#940
+En: "D3D Rendering Cache:"
+Gr: "Geometry Cache:"
+Fr: "Cache g�om�trie:"
+
+#941
+En: "Megabytes"
+Gr: "Megabytes"
+Fr: "M�ga-octets"
+
+#942
+En: "You killed yourself!"
+Gr: "Sie haben sich selbst ausgeschaltet!"
+Fr: "Vous vous �tes tu�!"
+
+// Embarassing message about getting killed by someone with a riot stick
+#943
+En: "You just got beat down by "
+Gr: "Sie wurden niedergestreckt von "
+Fr: "Vous venez d'�tre descendu par "
+
+// New death messages
+#944
+En: "You were killed by "
+Gr: "Sie wurden ausgeschaltet von "
+Fr: "Vous avez �t� tu� par "
+
+#945
+En: "You killed "
+Gr: "Sie eliminierten "
+Fr: "Vous avez tu� "
+
+#946
+En: " got beat down by "
+Gr: " wurde unsch�dlich gemacht von "
+Fr: " a �t� descendu par "
+
+// New CTF messages
+#947
+En: "The red flag was returned by "
+Gr: "Die rote Flagge wurde zur�ckgebracht von "
+Fr: "Le drapeau rouge a �t� rapport� par "
+
+#948
+En: "The blue flag was returned by "
+Gr: "Die blaue Flagge wurde zur�ckgebracht von "
+Fr: "Le drapeau bleu a �t� rapport� par "
+
+#949
+En: "The red flag has returned"
+Gr: "Die rote Flagge ist zur�ck"
+Fr: "Le drapeau rouge a �t� rapport�"
+
+#950
+En: "The blue flag has returned"
+Gr: "Die blaue Flagge ist zur�ck"
+Fr: "Le drapeau bleu a �t� rapport�"
+
+#951
+En: "You captured the red flag!"
+Gr: "Sie haben die rote Flagge erobert!"
+Fr: "Vous vous �tes empar� du drapeau rouge!"
+
+#952
+En: " captured the red flag!"
+Gr: " hat die rote Flagge erobert!"
+Fr: " s'est empar� du drapeau rouge!"
+
+#953
+En: "You captured the blue flag!"
+Gr: "Sie haben die blaue Flagge erobert!"
+Fr: "Vous vous �tes empar� du drapeau bleu!"
+
+#954
+En: " captured the blue flag!"
+Gr: " hat die blaue Flagge erobert!"
+Fr: " s'est empar� du drapeau bleu!"
+
+#955
+En: "You have stolen the enemy flag!"
+Gr: "Sie haben die Flagge des Gegners gestohlen!"
+Fr: "Vous avez vol� le drapeau ennemi!"
+
+#956
+En: "The enemy has stolen your flag!"
+Gr: "Der Gegner hat Ihre Flagge gestohlen!"
+Fr: "L'ennemi a vol� votre drapeau!"
+
+// New messages for banning obnoxious players from the game
+#957
+En: "You have been banned from this server."
+Gr: "Sie wurden von dem Server ausgeschlossen."
+Fr: "Ce serveur vous est interdit."
+
+#958
+En: "Kicking player %s\n"
+Gr: "Spieler %s wird entfernt\n"
+Fr: "Renvoi du joueur %s\n"
+
+#959
+En: "Banning player %s\n"
+Gr: "Spieler %s wird ausgeschlossen\n"
+Fr: "Joueur %s interdit\n"
+
+#960
+En: "Invalid IP address/range specified\n"
+Gr: "Ung�ltige IP-Adresse/Range angegeben\n"
+Fr: "Adresse IP/Plage sp�cifi�e incorrecte\n"
+
+#961
+En: "Banning IP: %s\n"
+Gr: "Entferne IP: %s\n"
+Fr: "IP interdite: %s\n"
+
+// Part of a message that tells the player that a given weapon is already selected
+#962
+En: " already selected"
+Gr: " bereits ausgew�hlt"
+Fr: " d�j� s�lectionn�(e)"
+
+#963
+En: "Name must be 20 characters or less"
+Gr: "Der Name darf nicht aus mehr als 20 Buchstaben bestehen."
+Fr: "Le nom ne doit pas d�passer 20 caract�res"
+
+#964
+En: "You have not properly selected your network connection in the launcher. Please exit Red Faction and run the launcher."
+Gr: "Sie haben im Startmen� noch keine Internetverbindung ausgew�hlt. Verlassen Sie Red Faction und rufen Sie das Startmen� auf."
+Fr: "Vous avez mal s�lectionn� votre connexion r�seau dans le lanceur. Veuillez quitter Red Faction et ex�cuter le lanceur."
+
+#965
+En: "The rate command is only valid in multiplayer mode."
+Gr: "Der Rate-Befehl ist nur im Mehrspielermodus g�ltig."
+Fr: "La commande de vitesse n'est disponible qu'en mode multijoueur."
+
+#966
+En: "\nHit a key to exit...\n"
+Gr: "\nZum Verlassen eine Taste dr�cken...\n"
+Fr: "\nAppuyez sur une touche pour quitter...\n"
+
+#967
+En: "SAVED"
+Gr: "GESPEICHERT"
+Fr: "SAUVEGARDEE"
+
+// Length restrictions.  These strings go in the same place as the weapon names.
+// So none of the following four strings should be longer than the 
+// French string: "Bouclier anti-�meute"
+#968
+En: "Melee Weapons"
+Gr: "Nahkampfwaffen"
+Fr: "Armes de m�l�e"
+
+#969
+En: "Semi-Auto Weapons"
+Gr: "Halbautomatische Waffen"
+Fr: "Armes semi-auto"
+
+#970
+En: "Heavy Weapons"
+Gr: "Schwere Waffen"
+Fr: "Armes lourdes"
+
+#971
+En: "Explosive Weapons"
+Gr: "Sprengladungen"
+Fr: "Armes explosives"
+
+// No length restrictions
+#972
+En: "You cannot save at this time."
+Gr: "Sie k�nnen jetzt nicht speichern."
+Fr: "Vous ne pouvez pas sauvegarder � ce moment."
+
+// New level name
+// As in a high rise building or skyscraper
+#973
+En: "High Rise"
+Gr: "Wolkenkratzer"
+Fr: "Gratte-ciel"
+
+#974
+En: "DEATHMATCH"
+Gr: "DEATHMATCH"
+Fr: "MATCH A MORT"
+
+#975
+En: "CAPTURE THE FLAG"
+Gr: "CAPTURE THE FLAG"
+FR: "VOLER LE DRAPEAU"
+
+#976
+En: "TEAM DEATHMATCH"
+Gr: "TEAM-DEATHMATCH"
+Fr: "MATCH A MORT PAR EQUIPE"
+
+#977
+En: "You are mortal again"
+Gr: "Sie sind wieder sterblich"
+Fr: "Vous �tes de nouveau mortel"
+
+#978
+En: "You are invulnerable!"
+Gr: "Sie sind unverwundbar!"
+Fr: "Vous �tes invuln�rable!"
+
+#979
+En: "You feel better armed"
+Gr: "Sie f�hlen sich besser bewaffnet"
+Fr: "Vous vous sentez mieux arm�"
+
+// The same space limitations for left and right mouse button clicks applies to the following two strings.
+// This is the Macintosh version of left and right mouse button
+#980
+En: "Mouse Btn"
+Gr: "Maustaste"
+Fr: "Btn souris"
+
+#981
+En: "Ctrl-Mouse Btn"
+Gr: "Strg-Maustaste"
+Fr: "Ctrl-Btn souris"
+
+#982
+En: "Extras"
+Gr: "Extras"
+Fr: "Extras"
+
+#983
+En: "CREDITS"
+Gr: "CREDITS"
+Fr: "CREDITS"
+
+#984
+En: "TRAILER"
+Gr: "TRAILER"
+Fr: "BANDE-ANNONCE"
+
+#985
+En: "GLASSHOUSE"
+Gr: "GLASHAUS"
+Fr: "SERRE"
+
+#986
+En: "Load Game"
+Gr: "Spiel laden"
+Fr: "Charger partie"
+
+#987
+En: "   Name"
+Gr: "   Name"
+Fr: "   Nom"
+
+#988
+En: " Game time"
+Gr: " Spielzeit"
+Fr: " Temps de jeu"
+
+#989
+En: "No filename specified"
+Gr: "Kein Dateiname angegeben"
+Fr: "Aucun nom de fichier sp�cifi�"
+
+#990
+En: "A file by that name already exists.  Would you like to overwrite it?"
+Gr: "Diese Datei existiert bereits. M�chten Sie sie �berschreiben?"
+Fr: "Un fichier porte d�j� ce nom. Voulez-vous l'�craser?"
+
+#991
+En: "You cannot talk for 1 second"
+Gr: "Sie k�nnen nicht 1 Sekunde reden"
+Fr: "Vous restez 1 seconde sans voix"
+
+// Cannot be any longer than the word "THQMultiplay"
+#992
+En: "LAN Only"
+Gr: "Nur LAN"
+Fr: "LAN uniq. "
+
+#993
+En: "You don't currently have the '%s' mod running.  See README.TXT for details on running Red Faction with mods."
+Gr: "Der '%s' Mod ist zur Zeit nicht aktiv. Wie man Red Faction mit Mods startet, wird in der README.TXT erl�utert."
+Fr: "Le mode '%s' n'est actuellement pas activ�. Pour en savoir plus sur les modes Red Faction, reportez-vous au fichier README.TXT."
+
+#994
+En: "You currently have the '%s' mod running.  You must run Red Faction without an active mod in order to join that server."
+Gr: "Der '%s' Mod ist zur Zeit aktiv. Um diesem Server beitreten zu k�nnen, m�ssen Sie Red Faction ohne aktiven Mod starten."
+Fr: "Le mode '%s' est actuellement activ�. Aucun mode ne doit �tre activ� pour lancer Red Faction."
+
+#995
+En: "%s Dedicated Server"
+Gr: "%s Dedicated Server"
+Fr: "Serveur d�di� %s"
+
+#996
+En: "Fast animations (Recommended)"
+Gr: "Schnelle Animationen (Empfohlen)"
+Fr: "Animations rapides (Recommand�es)"
+
+// As in texture resolution.
+#997
+En: "Resolution:"
+Gr: "Aufl�sung:"
+Fr: "R�solution:"
+
+// As in texture resolution.
+#998
+En: "Name cannot be blank."
+Gr: "(gr) Name cannot be blank."
+Fr: "(fr) Name cannot be blank."
+
+// As in texture resolution.
+#999
+En: "Invalid Name"
+Gr: "(gr) Invalid Name"
+Fr: "(fr) Invalid Name"
+
+
+#End
